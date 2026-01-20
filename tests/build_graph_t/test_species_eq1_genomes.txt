@@ -1,0 +1,2 @@
+43	/home/work/wenhai/wh-github/PanTax/pantaxr/tests/build_graph_t/genomes/GCF_002305875.1_ASM230587v1_genomic.fna
+48	/home/work/wenhai/wh-github/PanTax/pantaxr/tests/build_graph_t/genomes/GCF_001027285.1_ASM102728v1_genomic.fna

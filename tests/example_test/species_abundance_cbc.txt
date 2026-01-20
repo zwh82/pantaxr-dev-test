@@ -1,0 +1,3 @@
+species_taxid	predicted_abundance	predicted_coverage
+Myxococcus_xanthus	0.5	19.98873873873874
+Escherichia_coli	0.5	19.98873873873874

@@ -1,0 +1,602 @@
+2025-07-05 12:15:07.093 [38;5;51mINFO[0m [pantaxr::profile] strain profiling main parameters: unique_trio_fraction: 0.3, strain_cov_diff: 0.46, single_cov_ratio: 0.85, threads: 64
+2025-07-05 12:15:07.101 [38;5;51mINFO[0m [pantaxr::profile] - Read classification...
+2025-07-05 12:15:10.501 [38;5;51mINFO[0m [pantaxr::profile] - Species level profiling...
+2025-07-05 12:15:10.714 [38;5;51mINFO[0m [pantaxr::profile] - Strain level profiling...
+2025-07-05 12:15:19.615 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 9 graph information, start: 1, end: 10696
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 140 graph information, start: 3632405, end: 3718735
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 34 graph information, start: 190499, end: 1718342
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 56 graph information, start: 1964699, end: 2948921
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 174 graph information, start: 4985137, end: 5153210
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 122 graph information, start: 3346185, end: 3593768
+2025-07-05 12:15:19.616 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 24 graph information, start: 10697, end: 190498
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 142 graph information, start: 3724044, end: 3728807
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 192 graph information, start: 5153211, end: 5665418
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 159 graph information, start: 4380952, end: 4524469
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 69 graph information, start: 2948922, end: 3346184
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 141 graph information, start: 3718736, end: 3724043
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 160 graph information, start: 4524470, end: 4529537
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 162 graph information, start: 4529538, end: 4594298
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 210 graph information, start: 7381752, end: 7964773
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 213 graph information, start: 7964774, end: 8288454
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 199 graph information, start: 6189065, end: 6605172
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 158 graph information, start: 3728808, end: 4380951
+2025-07-05 12:15:19.617 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 206 graph information, start: 7158573, end: 7381751
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 173 graph information, start: 4594299, end: 4985136
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 139 graph information, start: 3593769, end: 3632404
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 202 graph information, start: 7081533, end: 7158572
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 195 graph information, start: 5665419, end: 5816369
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 235 graph information, start: 8288455, end: 8298924
+2025-07-05 12:15:19.618 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 562 graph information, start: 38719073, end: 39505589
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 197 graph information, start: 5945409, end: 6120153
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 29507 graph information, start: 145955845, end: 146165674
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 196 graph information, start: 5816370, end: 5945408
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 2572074 graph information, start: 365134525, end: 365136112
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 35 graph information, start: 1718343, end: 1964698
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 201 graph information, start: 6785776, end: 7081532
+2025-07-05 12:15:19.619 [38;5;129mDEBUG[0m [pantaxr::profile] Reading 200 graph information, start: 6605173, end: 6785775
+2025-07-05 12:15:19.635 [38;5;129mDEBUG[0m [pantaxr::profile] 2572074 species node abundance > 0 number: 1122
+2025-07-05 12:15:19.684 [38;5;129mDEBUG[0m [pantaxr::profile] 141 species node abundance > 0 number: 5140
+2025-07-05 12:15:19.684 [38;5;129mDEBUG[0m [pantaxr::profile] 160 species node abundance > 0 number: 4225
+2025-07-05 12:15:19.684 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000512145.1 unique trio node abundance > 0 ratio: 2222
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 142 species node abundance > 0 number: 4660
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023035815.1 unique trio node abundance > 0 ratio: 2567
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 235 species node abundance > 0 number: 8136
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005885795.1 unique trio node abundance > 0 ratio: 1809
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023035415.1 unique trio node abundance > 0 ratio: 2029
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_029866705.1 unique trio node abundance > 0 ratio: 1978
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023035855.1 unique trio node abundance > 0 ratio: 1897
+2025-07-05 12:15:19.685 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:19.686 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000740135.1 unique trio node abundance > 0 ratio: 3151
+2025-07-05 12:15:19.687 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000740155.1 unique trio node abundance > 0 ratio: 2159
+2025-07-05 12:15:19.687 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:19.693 [38;5;129mDEBUG[0m [pantaxr::profile] 9 species node abundance > 0 number: 8106
+2025-07-05 12:15:19.694 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000009605.1 unique trio node abundance > 0 ratio: 24
+2025-07-05 12:15:19.694 [38;5;129mDEBUG[0m [pantaxr::profile] 		 9	0.008911994058670627
+2025-07-05 12:15:19.694 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000021065.1 unique trio node abundance > 0 ratio: 930
+2025-07-05 12:15:19.695 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000021085.1 unique trio node abundance > 0 ratio: 13
+2025-07-05 12:15:19.695 [38;5;129mDEBUG[0m [pantaxr::profile] 		 9	0.006842105263157895
+2025-07-05 12:15:19.695 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000183285.1 unique trio node abundance > 0 ratio: 826
+2025-07-05 12:15:19.696 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000183305.1 unique trio node abundance > 0 ratio: 30
+2025-07-05 12:15:19.696 [38;5;129mDEBUG[0m [pantaxr::profile] 		 9	0.01529051987767584
+2025-07-05 12:15:19.696 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 5
+2025-07-05 12:15:19.816 [38;5;129mDEBUG[0m [pantaxr::profile] 139 species node abundance > 0 number: 29825
+2025-07-05 12:15:19.817 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000021405.1 unique trio node abundance > 0 ratio: 10
+2025-07-05 12:15:19.817 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.00400962309542903
+2025-07-05 12:15:19.818 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000166635.1 unique trio node abundance > 0 ratio: 17
+2025-07-05 12:15:19.818 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.0038262435291469728
+2025-07-05 12:15:19.818 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000166655.1 unique trio node abundance > 0 ratio: 26
+2025-07-05 12:15:19.818 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.010124610591900311
+2025-07-05 12:15:19.819 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002151485.1 unique trio node abundance > 0 ratio: 6
+2025-07-05 12:15:19.819 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.0036319612590799033
+2025-07-05 12:15:19.819 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003367295.1 unique trio node abundance > 0 ratio: 1774
+2025-07-05 12:15:19.820 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_019134655.1 unique trio node abundance > 0 ratio: 31
+2025-07-05 12:15:19.820 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.011791555724610117
+2025-07-05 12:15:19.821 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_019464575.1 unique trio node abundance > 0 ratio: 18
+2025-07-05 12:15:19.821 [38;5;129mDEBUG[0m [pantaxr::profile] 		 139	0.0056461731493099125
+2025-07-05 12:15:19.821 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024662175.1 unique trio node abundance > 0 ratio: 1817
+2025-07-05 12:15:19.821 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 8
+2025-07-05 12:15:19.937 [38;5;129mDEBUG[0m [pantaxr::profile] 		2572074	[0.521484375]	0
+2025-07-05 12:15:19.937 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 1 / 1
+2025-07-05 12:15:19.937 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_012897395.1	frequencies_mean:0.62	first_sol:0.521484375	divergence:0.09
+
+2025-07-05 12:15:20.736 [38;5;129mDEBUG[0m [pantaxr::profile] 29507 species node abundance > 0 number: 20002
+2025-07-05 12:15:20.765 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024526015.1 unique trio node abundance > 0 ratio: 18456
+2025-07-05 12:15:20.765 [38;5;129mDEBUG[0m [pantaxr::profile] 		 29507	0.13107954545454545
+2025-07-05 12:15:20.792 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_030053735.1 unique trio node abundance > 0 ratio: 760
+2025-07-05 12:15:20.792 [38;5;129mDEBUG[0m [pantaxr::profile] 		 29507	0.005416152963562119
+2025-07-05 12:15:20.792 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 0 / 2
+2025-07-05 12:15:22.001 [38;5;129mDEBUG[0m [pantaxr::profile] 202 species node abundance > 0 number: 66086
+2025-07-05 12:15:22.004 [38;5;129mDEBUG[0m [pantaxr::profile] 162 species node abundance > 0 number: 47024
+2025-07-05 12:15:22.005 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_008152825.1 unique trio node abundance > 0 ratio: 1155
+2025-07-05 12:15:22.005 [38;5;129mDEBUG[0m [pantaxr::profile] 		 162	0.2269155206286837
+2025-07-05 12:15:22.006 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_008153055.1 unique trio node abundance > 0 ratio: 455
+2025-07-05 12:15:22.006 [38;5;129mDEBUG[0m [pantaxr::profile] 		 162	0.08563899868247694
+2025-07-05 12:15:22.007 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_008153205.1 unique trio node abundance > 0 ratio: 1085
+2025-07-05 12:15:22.007 [38;5;129mDEBUG[0m [pantaxr::profile] 		 162	0.18925518925518925
+2025-07-05 12:15:22.008 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_004803775.1 unique trio node abundance > 0 ratio: 26413
+2025-07-05 12:15:22.009 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_008153345.1 unique trio node abundance > 0 ratio: 293
+2025-07-05 12:15:22.009 [38;5;129mDEBUG[0m [pantaxr::profile] 		 162	0.04353640416047548
+2025-07-05 12:15:22.010 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_013348685.1 unique trio node abundance > 0 ratio: 6306
+2025-07-05 12:15:22.011 [38;5;129mDEBUG[0m [pantaxr::profile] 140 species node abundance > 0 number: 84466
+2025-07-05 12:15:22.011 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017161245.1 unique trio node abundance > 0 ratio: 672
+2025-07-05 12:15:22.011 [38;5;129mDEBUG[0m [pantaxr::profile] 		 162	0.11449991480661101
+2025-07-05 12:15:22.012 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017161285.1 unique trio node abundance > 0 ratio: 4171
+2025-07-05 12:15:22.012 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 7
+2025-07-05 12:15:22.014 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_013372205.1 unique trio node abundance > 0 ratio: 47181
+2025-07-05 12:15:22.015 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.018 [38;5;129mDEBUG[0m [pantaxr::profile] 195 species node abundance > 0 number: 110741
+2025-07-05 12:15:22.021 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003030205.1 unique trio node abundance > 0 ratio: 973
+2025-07-05 12:15:22.021 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.08338332333533294
+2025-07-05 12:15:22.022 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023035675.1 unique trio node abundance > 0 ratio: 52337
+2025-07-05 12:15:22.023 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_009730395.1 unique trio node abundance > 0 ratio: 796
+2025-07-05 12:15:22.023 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.14925932870804426
+2025-07-05 12:15:22.024 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014906165.1 unique trio node abundance > 0 ratio: 658
+2025-07-05 12:15:22.024 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.12315178738536403
+2025-07-05 12:15:22.025 [38;5;129mDEBUG[0m [pantaxr::profile] 174 species node abundance > 0 number: 158205
+2025-07-05 12:15:22.026 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014906205.1 unique trio node abundance > 0 ratio: 1252
+2025-07-05 12:15:22.026 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.13844962954771647
+2025-07-05 12:15:22.028 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_018885165.1 unique trio node abundance > 0 ratio: 672
+2025-07-05 12:15:22.028 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.05711857203569911
+2025-07-05 12:15:22.030 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_018885245.1 unique trio node abundance > 0 ratio: 5903
+2025-07-05 12:15:22.031 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003516145.1 unique trio node abundance > 0 ratio: 849
+2025-07-05 12:15:22.031 [38;5;129mDEBUG[0m [pantaxr::profile] 		 174	0.029574668199393875
+2025-07-05 12:15:22.032 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_019930865.1 unique trio node abundance > 0 ratio: 453
+2025-07-05 12:15:22.032 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.052649930264993025
+2025-07-05 12:15:22.033 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023035795.1 unique trio node abundance > 0 ratio: 56258
+2025-07-05 12:15:22.033 [38;5;129mDEBUG[0m [pantaxr::profile] 24 species node abundance > 0 number: 146290
+2025-07-05 12:15:22.033 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.034 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_019930985.1 unique trio node abundance > 0 ratio: 1269
+2025-07-05 12:15:22.034 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.14577828834003445
+2025-07-05 12:15:22.035 [38;5;129mDEBUG[0m [pantaxr::profile] 197 species node abundance > 0 number: 95021
+2025-07-05 12:15:22.036 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024752555.1 unique trio node abundance > 0 ratio: 968
+2025-07-05 12:15:22.036 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.21767483696874299
+2025-07-05 12:15:22.037 [38;5;129mDEBUG[0m [pantaxr::profile] 200 species node abundance > 0 number: 177123
+2025-07-05 12:15:22.037 [38;5;129mDEBUG[0m [pantaxr::profile] 159 species node abundance > 0 number: 115811
+2025-07-05 12:15:22.037 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_912579715.1 unique trio node abundance > 0 ratio: 618
+2025-07-05 12:15:22.037 [38;5;129mDEBUG[0m [pantaxr::profile] 		 195	0.12049132384480406
+2025-07-05 12:15:22.037 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 1 / 10
+2025-07-05 12:15:22.041 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001506585.1 unique trio node abundance > 0 ratio: 1473
+2025-07-05 12:15:22.041 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.027878719055189644
+2025-07-05 12:15:22.043 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024704545.1 unique trio node abundance > 0 ratio: 80654
+2025-07-05 12:15:22.043 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001587035.1 unique trio node abundance > 0 ratio: 622
+2025-07-05 12:15:22.043 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.15480338476854155
+2025-07-05 12:15:22.044 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_009730575.1 unique trio node abundance > 0 ratio: 389
+2025-07-05 12:15:22.044 [38;5;129mDEBUG[0m [pantaxr::profile] 		 24	0.0065139488931310495
+2025-07-05 12:15:22.045 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003060745.1 unique trio node abundance > 0 ratio: 596
+2025-07-05 12:15:22.045 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.08118784906688462
+2025-07-05 12:15:22.047 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014082005.1 unique trio node abundance > 0 ratio: 507
+2025-07-05 12:15:22.049 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000022105.1 unique trio node abundance > 0 ratio: 12676
+2025-07-05 12:15:22.049 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014151465.1 unique trio node abundance > 0 ratio: 339
+2025-07-05 12:15:22.050 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_026410845.1 unique trio node abundance > 0 ratio: 25224
+2025-07-05 12:15:22.050 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 3
+2025-07-05 12:15:22.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014152105.1 unique trio node abundance > 0 ratio: 306
+2025-07-05 12:15:22.052 [38;5;129mDEBUG[0m [pantaxr::profile] 196 species node abundance > 0 number: 85723
+2025-07-05 12:15:22.053 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001676785.2 unique trio node abundance > 0 ratio: 14598
+2025-07-05 12:15:22.054 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024333985.1 unique trio node abundance > 0 ratio: 1481
+2025-07-05 12:15:22.054 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.12364334613458006
+2025-07-05 12:15:22.054 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_016406325.1 unique trio node abundance > 0 ratio: 39192
+2025-07-05 12:15:22.055 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002850235.1 unique trio node abundance > 0 ratio: 68
+2025-07-05 12:15:22.055 [38;5;129mDEBUG[0m [pantaxr::profile] 		 159	0.006692254699340616
+2025-07-05 12:15:22.055 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_025232235.1 unique trio node abundance > 0 ratio: 100
+2025-07-05 12:15:22.055 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.05452562704471101
+2025-07-05 12:15:22.055 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000759485.1 unique trio node abundance > 0 ratio: 5035
+2025-07-05 12:15:22.056 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017751165.1 unique trio node abundance > 0 ratio: 55
+2025-07-05 12:15:22.056 [38;5;129mDEBUG[0m [pantaxr::profile] 		 159	0.012542759407069556
+2025-07-05 12:15:22.057 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_912579705.1 unique trio node abundance > 0 ratio: 207
+2025-07-05 12:15:22.057 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.07467532467532467
+2025-07-05 12:15:22.058 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017751185.1 unique trio node abundance > 0 ratio: 41
+2025-07-05 12:15:22.058 [38;5;129mDEBUG[0m [pantaxr::profile] 		 159	0.011404728789986092
+2025-07-05 12:15:22.058 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_007723545.1 unique trio node abundance > 0 ratio: 241
+2025-07-05 12:15:22.058 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.04722712130119538
+2025-07-05 12:15:22.059 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_949282015.1 unique trio node abundance > 0 ratio: 304
+2025-07-05 12:15:22.059 [38;5;129mDEBUG[0m [pantaxr::profile] 		 197	0.06788744975435462
+2025-07-05 12:15:22.059 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 3 / 10
+2025-07-05 12:15:22.060 [38;5;129mDEBUG[0m [pantaxr::profile] 213 species node abundance > 0 number: 252971
+2025-07-05 12:15:22.060 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017751205.1 unique trio node abundance > 0 ratio: 112
+2025-07-05 12:15:22.060 [38;5;129mDEBUG[0m [pantaxr::profile] 		 159	0.006340220775544862
+2025-07-05 12:15:22.061 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_011600845.2 unique trio node abundance > 0 ratio: 75
+2025-07-05 12:15:22.061 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.06097560975609756
+2025-07-05 12:15:22.061 [38;5;129mDEBUG[0m [pantaxr::profile] 122 species node abundance > 0 number: 247109
+2025-07-05 12:15:22.062 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017751225.1 unique trio node abundance > 0 ratio: 39
+2025-07-05 12:15:22.062 [38;5;129mDEBUG[0m [pantaxr::profile] 		 159	0.00862259562237453
+2025-07-05 12:15:22.062 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 7
+2025-07-05 12:15:22.065 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_025402875.1 unique trio node abundance > 0 ratio: 49983
+2025-07-05 12:15:22.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000284635.1 unique trio node abundance > 0 ratio: 36
+2025-07-05 12:15:22.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		 213	0.00995850622406639
+2025-07-05 12:15:22.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_011600855.2 unique trio node abundance > 0 ratio: 147
+2025-07-05 12:15:22.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.02218867924528302
+2025-07-05 12:15:22.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 3
+2025-07-05 12:15:22.068 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000017465.2 unique trio node abundance > 0 ratio: 118848
+2025-07-05 12:15:22.069 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_011600955.2 unique trio node abundance > 0 ratio: 87
+2025-07-05 12:15:22.069 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.031498913830557564
+2025-07-05 12:15:22.072 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000349975.1 unique trio node abundance > 0 ratio: 8650
+2025-07-05 12:15:22.073 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_011600995.2 unique trio node abundance > 0 ratio: 151
+2025-07-05 12:15:22.073 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.09390547263681592
+2025-07-05 12:15:22.075 [38;5;129mDEBUG[0m [pantaxr::profile] 173 species node abundance > 0 number: 277267
+2025-07-05 12:15:22.077 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003213825.2 unique trio node abundance > 0 ratio: 51
+2025-07-05 12:15:22.077 [38;5;129mDEBUG[0m [pantaxr::profile] 		 213	0.013571048430015966
+2025-07-05 12:15:22.081 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000231175.1 unique trio node abundance > 0 ratio: 1552
+2025-07-05 12:15:22.081 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.10321207687703664
+2025-07-05 12:15:22.082 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003214155.2 unique trio node abundance > 0 ratio: 14
+2025-07-05 12:15:22.082 [38;5;129mDEBUG[0m [pantaxr::profile] 		 213	0.0014925373134328358
+2025-07-05 12:15:22.082 [38;5;129mDEBUG[0m [pantaxr::profile] 201 species node abundance > 0 number: 208245
+2025-07-05 12:15:22.086 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000941035.1 unique trio node abundance > 0 ratio: 1418
+2025-07-05 12:15:22.086 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.08909833490417844
+2025-07-05 12:15:22.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014931155.1 unique trio node abundance > 0 ratio: 152
+2025-07-05 12:15:22.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		 213	0.01537061381332794
+2025-07-05 12:15:22.088 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000816365.1 unique trio node abundance > 0 ratio: 46
+2025-07-05 12:15:22.088 [38;5;129mDEBUG[0m [pantaxr::profile] 		 201	0.002081165452653486
+2025-07-05 12:15:22.089 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_016406645.1 unique trio node abundance > 0 ratio: 154
+2025-07-05 12:15:22.089 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.002445842068483578
+2025-07-05 12:15:22.093 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_017896385.1 unique trio node abundance > 0 ratio: 5533
+2025-07-05 12:15:22.094 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000816385.2 unique trio node abundance > 0 ratio: 23121
+2025-07-05 12:15:22.096 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_030544585.1 unique trio node abundance > 0 ratio: 26
+2025-07-05 12:15:22.096 [38;5;129mDEBUG[0m [pantaxr::profile] 		 196	0.012524084778420038
+2025-07-05 12:15:22.096 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 9
+2025-07-05 12:15:22.098 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_013372125.1 unique trio node abundance > 0 ratio: 109810
+2025-07-05 12:15:22.099 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000816405.1 unique trio node abundance > 0 ratio: 39
+2025-07-05 12:15:22.099 [38;5;129mDEBUG[0m [pantaxr::profile] 		 201	0.0016527524685341357
+2025-07-05 12:15:22.099 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.099 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001047635.1 unique trio node abundance > 0 ratio: 1131
+2025-07-05 12:15:22.099 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.015832575068243857
+2025-07-05 12:15:22.100 [38;5;129mDEBUG[0m [pantaxr::profile] 199 species node abundance > 0 number: 294797
+2025-07-05 12:15:22.101 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_007747015.1 unique trio node abundance > 0 ratio: 152432
+2025-07-05 12:15:22.105 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_021655575.1 unique trio node abundance > 0 ratio: 90813
+2025-07-05 12:15:22.106 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000816425.1 unique trio node abundance > 0 ratio: 75
+2025-07-05 12:15:22.106 [38;5;129mDEBUG[0m [pantaxr::profile] 		 201	0.0016298324532238086
+2025-07-05 12:15:22.106 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001293065.1 unique trio node abundance > 0 ratio: 1773
+2025-07-05 12:15:22.107 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.12721532611035374
+2025-07-05 12:15:22.111 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_001017575.1 unique trio node abundance > 0 ratio: 22214
+2025-07-05 12:15:22.112 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005222565.1 unique trio node abundance > 0 ratio: 2402
+2025-07-05 12:15:22.112 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.21606548529279482
+2025-07-05 12:15:22.116 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_900638335.1 unique trio node abundance > 0 ratio: 39
+2025-07-05 12:15:22.116 [38;5;129mDEBUG[0m [pantaxr::profile] 		 201	0.0019123271550456017
+2025-07-05 12:15:22.116 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 6
+2025-07-05 12:15:22.116 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005222585.1 unique trio node abundance > 0 ratio: 8198
+2025-07-05 12:15:22.121 [38;5;129mDEBUG[0m [pantaxr::profile] 206 species node abundance > 0 number: 181079
+2025-07-05 12:15:22.122 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000017725.2 unique trio node abundance > 0 ratio: 28
+2025-07-05 12:15:22.122 [38;5;129mDEBUG[0m [pantaxr::profile] 		 199	0.0002764312722749306
+2025-07-05 12:15:22.122 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_014858865.1 unique trio node abundance > 0 ratio: 1239
+2025-07-05 12:15:22.122 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.09764362833950666
+2025-07-05 12:15:22.124 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_021655595.1 unique trio node abundance > 0 ratio: 125
+2025-07-05 12:15:22.124 [38;5;129mDEBUG[0m [pantaxr::profile] 		 213	0.0011677877428998506
+2025-07-05 12:15:22.124 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 7
+2025-07-05 12:15:22.131 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_022343745.1 unique trio node abundance > 0 ratio: 3861
+2025-07-05 12:15:22.131 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.08213845041058589
+2025-07-05 12:15:22.134 [38;5;129mDEBUG[0m [pantaxr::profile] 192 species node abundance > 0 number: 409587
+2025-07-05 12:15:22.136 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_022343785.1 unique trio node abundance > 0 ratio: 3548
+2025-07-05 12:15:22.136 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.23180452110283548
+2025-07-05 12:15:22.136 [38;5;129mDEBUG[0m [pantaxr::profile] 69 species node abundance > 0 number: 346746
+2025-07-05 12:15:22.137 [38;5;129mDEBUG[0m [pantaxr::profile] 35 species node abundance > 0 number: 187311
+2025-07-05 12:15:22.141 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_022559725.1 unique trio node abundance > 0 ratio: 1360
+2025-07-05 12:15:22.141 [38;5;129mDEBUG[0m [pantaxr::profile] 		 173	0.0877532584849658
+2025-07-05 12:15:22.141 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 1 / 10
+2025-07-05 12:15:22.142 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002220735.1 unique trio node abundance > 0 ratio: 69
+2025-07-05 12:15:22.142 [38;5;129mDEBUG[0m [pantaxr::profile] 		 206	0.0014289560337150786
+2025-07-05 12:15:22.143 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003048375.1 unique trio node abundance > 0 ratio: 59843
+2025-07-05 12:15:22.146 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_009720545.1 unique trio node abundance > 0 ratio: 155115
+2025-07-05 12:15:22.151 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.159 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002220755.1 unique trio node abundance > 0 ratio: 21959
+2025-07-05 12:15:22.162 [38;5;129mDEBUG[0m [pantaxr::profile] 		160	[1.231707317073171, 2.0]	0
+2025-07-05 12:15:22.162 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:15:22.162 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_005885795.1	frequencies_mean:1.1686741237954303	first_sol:1.231707317073171	divergence:0.03
+2025-07-05 12:15:22.162 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_029866705.1	frequencies_mean:1.3204030473750994	first_sol:2	divergence:0.2
+2025-07-05 12:15:22.162 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.165 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003048875.2 unique trio node abundance > 0 ratio: 87476
+2025-07-05 12:15:22.186 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_015680025.1 unique trio node abundance > 0 ratio: 135
+2025-07-05 12:15:22.186 [38;5;129mDEBUG[0m [pantaxr::profile] 		 199	0.0013486782952706348
+2025-07-05 12:15:22.186 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 4
+2025-07-05 12:15:22.186 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002024615.2 unique trio node abundance > 0 ratio: 483
+2025-07-05 12:15:22.186 [38;5;129mDEBUG[0m [pantaxr::profile] 		 69	0.0034578790243483364
+2025-07-05 12:15:22.188 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005222145.1 unique trio node abundance > 0 ratio: 30
+2025-07-05 12:15:22.188 [38;5;129mDEBUG[0m [pantaxr::profile] 		 192	0.00014665838861539817
+2025-07-05 12:15:22.193 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000219105.1 unique trio node abundance > 0 ratio: 80483
+2025-07-05 12:15:22.200 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002220775.1 unique trio node abundance > 0 ratio: 105491
+2025-07-05 12:15:22.202 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 3
+2025-07-05 12:15:22.235 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005954665.1 unique trio node abundance > 0 ratio: 129408
+2025-07-05 12:15:22.235 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_002305895.1 unique trio node abundance > 0 ratio: 104088
+2025-07-05 12:15:22.236 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:22.242 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_005222205.1 unique trio node abundance > 0 ratio: 176614
+2025-07-05 12:15:22.285 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_023617245.1 unique trio node abundance > 0 ratio: 125591
+2025-07-05 12:15:22.286 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 3
+2025-07-05 12:15:22.296 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_022023855.1 unique trio node abundance > 0 ratio: 159892
+2025-07-05 12:15:22.297 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 3
+2025-07-05 12:15:22.423 [38;5;129mDEBUG[0m [pantaxr::profile] 		142	[6.0, 3.3076923076923084]	0
+2025-07-05 12:15:22.423 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:15:22.423 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023035415.1	frequencies_mean:2.207953226034292	first_sol:6	divergence:0.46
+2025-07-05 12:15:22.423 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023035855.1	frequencies_mean:1.2136542169322033	first_sol:3.3076923076923084	divergence:0.46
+2025-07-05 12:15:22.423 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:15:23.035 [38;5;129mDEBUG[0m [pantaxr::profile] 		141	[3.0, 9.420221699697683]	0
+2025-07-05 12:15:23.035 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:15:23.035 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000512145.1	frequencies_mean:1.5450443991533531	first_sol:3	divergence:0.32
+2025-07-05 12:15:23.035 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023035815.1	frequencies_mean:4.538211043157529	first_sol:9.420221699697683	divergence:0.35
+2025-07-05 12:15:23.035 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:15:23.977 [38;5;129mDEBUG[0m [pantaxr::profile] 210 species node abundance > 0 number: 413365
+2025-07-05 12:15:23.992 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000148855.1 unique trio node abundance > 0 ratio: 41321
+2025-07-05 12:15:24.005 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000255955.1 unique trio node abundance > 0 ratio: 39538
+2025-07-05 12:15:24.012 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000498335.1 unique trio node abundance > 0 ratio: 0
+2025-07-05 12:15:24.012 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0
+2025-07-05 12:15:24.019 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000685705.1 unique trio node abundance > 0 ratio: 3
+2025-07-05 12:15:24.019 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.0007147962830593281
+2025-07-05 12:15:24.031 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000828955.1 unique trio node abundance > 0 ratio: 100
+2025-07-05 12:15:24.031 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.0023788001332128075
+2025-07-05 12:15:24.043 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006337405.1 unique trio node abundance > 0 ratio: 37
+2025-07-05 12:15:24.043 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.0009172719835386866
+2025-07-05 12:15:24.054 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_007844035.1 unique trio node abundance > 0 ratio: 7
+2025-07-05 12:15:24.054 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.00017552657973921766
+2025-07-05 12:15:24.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_016748555.1 unique trio node abundance > 0 ratio: 108
+2025-07-05 12:15:24.066 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.002464234376069546
+2025-07-05 12:15:24.078 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_016749025.1 unique trio node abundance > 0 ratio: 13
+2025-07-05 12:15:24.078 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.00028931321493746385
+2025-07-05 12:15:24.090 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_020735805.1 unique trio node abundance > 0 ratio: 22
+2025-07-05 12:15:24.090 [38;5;129mDEBUG[0m [pantaxr::profile] 		 210	0.000552791597567717
+2025-07-05 12:15:24.090 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 10
+2025-07-05 12:15:24.527 [38;5;129mDEBUG[0m [pantaxr::profile] 		160	[1.231707317073171, 2.0]	0
+2025-07-05 12:15:24.527 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:15:24.625 [38;5;129mDEBUG[0m [pantaxr::profile] 158 species node abundance > 0 number: 452408
+2025-07-05 12:15:24.639 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000008185.1 unique trio node abundance > 0 ratio: 163
+2025-07-05 12:15:24.639 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.0052379575179151
+2025-07-05 12:15:24.661 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181405.1 unique trio node abundance > 0 ratio: 58910
+2025-07-05 12:15:24.675 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181425.1 unique trio node abundance > 0 ratio: 65
+2025-07-05 12:15:24.675 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.0015521276087683271
+2025-07-05 12:15:24.687 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181445.1 unique trio node abundance > 0 ratio: 17
+2025-07-05 12:15:24.687 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.000538588265112153
+2025-07-05 12:15:24.699 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181485.1 unique trio node abundance > 0 ratio: 26431
+2025-07-05 12:15:24.711 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181505.1 unique trio node abundance > 0 ratio: 3
+2025-07-05 12:15:24.711 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.00010323113451016826
+2025-07-05 12:15:24.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181545.1 unique trio node abundance > 0 ratio: 119
+2025-07-05 12:15:24.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.004891483064781322
+2025-07-05 12:15:24.749 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024181625.1 unique trio node abundance > 0 ratio: 39
+2025-07-05 12:15:24.749 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.001103034759736403
+2025-07-05 12:15:24.788 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024400725.1 unique trio node abundance > 0 ratio: 34
+2025-07-05 12:15:24.788 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.0005278519530522263
+2025-07-05 12:15:24.813 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_025905525.1 unique trio node abundance > 0 ratio: 52
+2025-07-05 12:15:24.813 [38;5;129mDEBUG[0m [pantaxr::profile] 		 158	0.0015700009057697533
+2025-07-05 12:15:24.813 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 10
+2025-07-05 12:15:25.017 [38;5;129mDEBUG[0m [pantaxr::profile] 		142	[6.0, 3.3076923076923084]	0
+2025-07-05 12:15:25.017 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:15:25.373 [38;5;129mDEBUG[0m [pantaxr::profile] 562 species node abundance > 0 number: 509714
+2025-07-05 12:15:25.399 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000520035.1 unique trio node abundance > 0 ratio: 194
+2025-07-05 12:15:25.399 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.003173772208225632
+2025-07-05 12:15:25.408 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003017915.1 unique trio node abundance > 0 ratio: 3
+2025-07-05 12:15:25.408 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.0005789270551910459
+2025-07-05 12:15:25.417 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003018555.1 unique trio node abundance > 0 ratio: 7
+2025-07-05 12:15:25.417 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.000971277924240322
+2025-07-05 12:15:25.458 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003790525.1 unique trio node abundance > 0 ratio: 119758
+2025-07-05 12:15:25.469 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_003966795.1 unique trio node abundance > 0 ratio: 60
+2025-07-05 12:15:25.469 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.00299311583358276
+2025-07-05 12:15:25.479 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_009650035.1 unique trio node abundance > 0 ratio: 52
+2025-07-05 12:15:25.479 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.004543071815481391
+2025-07-05 12:15:25.492 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_011996085.1 unique trio node abundance > 0 ratio: 163
+2025-07-05 12:15:25.492 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.011926538377112753
+2025-07-05 12:15:25.502 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_013167935.1 unique trio node abundance > 0 ratio: 98
+2025-07-05 12:15:25.502 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.005091173567458049
+2025-07-05 12:15:25.522 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_024223415.1 unique trio node abundance > 0 ratio: 36362
+2025-07-05 12:15:25.553 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_030389925.1 unique trio node abundance > 0 ratio: 946
+2025-07-05 12:15:25.553 [38;5;129mDEBUG[0m [pantaxr::profile] 		 562	0.00829235367852666
+2025-07-05 12:15:25.553 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 10
+2025-07-05 12:15:26.071 [38;5;129mDEBUG[0m [pantaxr::profile] 		141	[3.0, 9.420221699697683]	0
+2025-07-05 12:15:26.071 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:15:28.213 [38;5;129mDEBUG[0m [pantaxr::profile] 56 species node abundance > 0 number: 915868
+2025-07-05 12:15:28.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_000418325.1 unique trio node abundance > 0 ratio: 490402
+2025-07-05 12:15:28.739 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_004135755.1 unique trio node abundance > 0 ratio: 642082
+2025-07-05 12:15:28.748 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 2
+2025-07-05 12:15:30.551 [38;5;129mDEBUG[0m [pantaxr::profile] 		9	[7.0, 2.5578231292517]	0
+2025-07-05 12:15:30.551 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:15:30.551 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000021065.1	frequencies_mean:3.8524203315302326	first_sol:7	divergence:0.29
+2025-07-05 12:15:30.551 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000183285.1	frequencies_mean:1.4434776831546894	first_sol:2.5578231292517	divergence:0.28
+2025-07-05 12:15:30.551 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:15:31.493 [38;5;129mDEBUG[0m [pantaxr::profile] 		235	[1.5714285714285716, 1.0]	0
+2025-07-05 12:15:31.493 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:15:31.493 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000740135.1	frequencies_mean:0.7979372759714953	first_sol:1.5714285714285716	divergence:0.33
+2025-07-05 12:15:31.493 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000740155.1	frequencies_mean:0.38633753726287984	first_sol:1	divergence:0.44
+2025-07-05 12:15:31.493 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:15:33.032 [38;5;129mDEBUG[0m [pantaxr::profile] 34 species node abundance > 0 number: 988020
+2025-07-05 12:15:33.083 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006400955.1 unique trio node abundance > 0 ratio: 47880
+2025-07-05 12:15:33.123 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006401215.1 unique trio node abundance > 0 ratio: 42187
+2025-07-05 12:15:33.245 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006401635.1 unique trio node abundance > 0 ratio: 168
+2025-07-05 12:15:33.245 [38;5;129mDEBUG[0m [pantaxr::profile] 		 34	0.0005339333727427013
+2025-07-05 12:15:33.284 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006402015.1 unique trio node abundance > 0 ratio: 320
+2025-07-05 12:15:33.284 [38;5;129mDEBUG[0m [pantaxr::profile] 		 34	0.007258869431086108
+2025-07-05 12:15:33.322 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_006402735.1 unique trio node abundance > 0 ratio: 1198
+2025-07-05 12:15:33.322 [38;5;129mDEBUG[0m [pantaxr::profile] 		 34	0.025950957456026342
+2025-07-05 12:15:33.420 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_016698685.1 unique trio node abundance > 0 ratio: 213
+2025-07-05 12:15:33.420 [38;5;129mDEBUG[0m [pantaxr::profile] 		 34	0.0008836121067303863
+2025-07-05 12:15:33.519 [38;5;129mDEBUG[0m [pantaxr::profile] 		GCF_020827275.1 unique trio node abundance > 0 ratio: 158
+2025-07-05 12:15:33.519 [38;5;129mDEBUG[0m [pantaxr::profile] 		 34	0.0006559663879501465
+2025-07-05 12:15:33.519 [38;5;129mDEBUG[0m [pantaxr::profile] 		First filter #strains / #paths = 2 / 7
+2025-07-05 12:15:42.187 [38;5;129mDEBUG[0m [pantaxr::profile] 		9	[7.0, 2.5578231292517]	0
+2025-07-05 12:15:42.188 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:15:44.970 [38;5;129mDEBUG[0m [pantaxr::profile] 		235	[1.5714285714285716, 1.0]	0
+2025-07-05 12:15:44.970 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:30:17.953 [38;5;129mDEBUG[0m [pantaxr::profile] 		139	[4.0, 3.3]	0
+2025-07-05 12:30:17.959 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:30:17.959 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_003367295.1	frequencies_mean:2.9932978698840293	first_sol:4	divergence:0.14
+2025-07-05 12:30:17.959 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_024662175.1	frequencies_mean:2.6384292580916906	first_sol:3.3	divergence:0.11
+2025-07-05 12:30:17.959 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:37:25.146 [38;5;129mDEBUG[0m [pantaxr::profile] 		139	[4.0, 3.3]	0
+2025-07-05 12:37:25.147 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 12:44:39.873 [38;5;129mDEBUG[0m [pantaxr::profile] 		202	[1.0, 5.0]	0
+2025-07-05 12:44:39.874 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:44:39.874 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_004803775.1	frequencies_mean:1.3277217183625432	first_sol:1	divergence:0.14
+2025-07-05 12:44:39.874 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_013372205.1	frequencies_mean:4.210192889995458	first_sol:5	divergence:0.09
+2025-07-05 12:44:39.874 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:46:27.213 [38;5;129mDEBUG[0m [pantaxr::profile] 		162	[7.1203007518797, 3.142857142857143]	0
+2025-07-05 12:46:27.214 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 12:46:27.214 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_013348685.1	frequencies_mean:5.513117529512091	first_sol:7.1203007518797	divergence:0.13
+2025-07-05 12:46:27.214 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_017161285.1	frequencies_mean:2.4458233627283708	first_sol:3.142857142857143	divergence:0.12
+2025-07-05 12:46:27.214 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 12:57:09.803 [38;5;129mDEBUG[0m [pantaxr::profile] 		197	[1.0, 1.0, 1.0]	0
+2025-07-05 12:57:09.804 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 3 / 3
+2025-07-05 12:57:09.804 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_014082005.1	frequencies_mean:1.5937955461333757	first_sol:1	divergence:0.23
+2025-07-05 12:57:09.804 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_014151465.1	frequencies_mean:1.640070564499544	first_sol:1	divergence:0.24
+2025-07-05 12:57:09.804 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_014152105.1	frequencies_mean:1.574958560925118	first_sol:1	divergence:0.22
+2025-07-05 12:57:09.804 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 3 / 3
+2025-07-05 12:59:40.677 [38;5;129mDEBUG[0m [pantaxr::profile] 		162	[7.1203007518797, 3.142857142857143]	0
+2025-07-05 12:59:40.678 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 13:13:42.592 [38;5;129mDEBUG[0m [pantaxr::profile] 		196	[3.0, 7.0]	0
+2025-07-05 13:13:42.593 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 13:13:42.593 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000759485.1	frequencies_mean:2.965493307683323	first_sol:3	divergence:0.01
+2025-07-05 13:13:42.593 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_017896385.1	frequencies_mean:5.4174227903761345	first_sol:7	divergence:0.13
+2025-07-05 13:13:42.593 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 13:16:17.333 [38;5;129mDEBUG[0m [pantaxr::profile] 		202	[1.0, 5.0]	0
+2025-07-05 13:16:17.334 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+percentage: 31.2%
+2025-07-05 13:25:52.601 [38;5;129mDEBUG[0m [pantaxr::profile] 		140	[3.0, 6.0]	0
+2025-07-05 13:25:52.602 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 13:25:52.602 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023035675.1	frequencies_mean:2.820861791431838	first_sol:3	divergence:0.03
+2025-07-05 13:25:52.602 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023035795.1	frequencies_mean:5.034982039823515	first_sol:6	divergence:0.09
+2025-07-05 13:25:52.602 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 13:37:32.323 [38;5;129mDEBUG[0m [pantaxr::profile] 		197	[1.0, 1.0, 1.0]	0
+2025-07-05 13:37:32.324 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 3 / 3
+
+2025-07-05 13:51:09.310 [38;5;129mDEBUG[0m [pantaxr::profile] 		195	[13.0]	0
+2025-07-05 13:51:09.311 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 1 / 1
+2025-07-05 13:51:09.311 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_018885245.1	frequencies_mean:7.157313247432826	first_sol:13	divergence:0.29
+2025-07-05 13:51:09.311 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 1 / 1
+2025-07-05 14:05:41.261 [38;5;129mDEBUG[0m [pantaxr::profile] 		196	[3.0, 7.0]	0
+2025-07-05 14:05:41.262 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 14:08:57.896 [38;5;129mDEBUG[0m [pantaxr::profile] 		140	[3.0, 6.0]	0
+2025-07-05 14:08:57.897 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 14:18:07.164 [38;5;129mDEBUG[0m [pantaxr::profile] 		159	[6.0, 3.521739130434783]	0
+2025-07-05 14:18:07.165 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 14:18:07.165 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000022105.1	frequencies_mean:4.930415968416044	first_sol:6	divergence:0.1
+2025-07-05 14:18:07.165 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_001676785.2	frequencies_mean:3.002193288992304	first_sol:3.521739130434783	divergence:0.08
+2025-07-05 14:18:07.165 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 14:48:19.750 [38;5;129mDEBUG[0m [pantaxr::profile] 		195	[13.0]	0
+2025-07-05 14:48:19.751 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 1 / 1
+
+2025-07-05 15:30:05.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		24	[2.0, 4.0]	0
+2025-07-05 15:30:05.483 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 15:30:05.483 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_016406325.1	frequencies_mean:1.9785458745000983	first_sol:2	divergence:0.01
+2025-07-05 15:30:05.483 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_025402875.1	frequencies_mean:3.7512589024632086	first_sol:4	divergence:0.03
+2025-07-05 15:30:05.483 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 15:33:02.695 [38;5;129mDEBUG[0m [pantaxr::profile] 		159	[6.0, 3.521739130434783]	0
+2025-07-05 15:33:02.696 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 15:39:26.450 [38;5;129mDEBUG[0m [pantaxr::profile] 		174	[4.0, 16.0]	0
+2025-07-05 15:39:26.450 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 15:39:26.451 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_024704545.1	frequencies_mean:3.000159730902938	first_sol:4	divergence:0.14
+2025-07-05 15:39:26.451 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_026410845.1	frequencies_mean:11.46679247104013	first_sol:16	divergence:0.17
+2025-07-05 15:39:26.451 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 15:40:06.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		200	[10.833333333333334, 3.0]	0
+2025-07-05 15:40:06.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 15:40:06.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000017465.2	frequencies_mean:9.184776933775266	first_sol:10.833333333333334	divergence:0.08
+2025-07-05 15:40:06.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_013372125.1	frequencies_mean:2.900843895674159	first_sol:3	divergence:0.02
+2025-07-05 15:40:06.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 16:36:12.753 [38;5;129mDEBUG[0m [pantaxr::profile] 		206	[1.0, 4.0]	0
+2025-07-05 16:36:12.754 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 16:36:12.754 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_002220755.1	frequencies_mean:1.5573784012494187	first_sol:1	divergence:0.22
+2025-07-05 16:36:12.754 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_002220775.1	frequencies_mean:3.7814842122009824	first_sol:4	divergence:0.03
+2025-07-05 16:36:12.754 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 17:04:39.481 [38;5;129mDEBUG[0m [pantaxr::profile] 		35	[1.0, 2.0]	0
+2025-07-05 17:04:39.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 17:04:39.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000219105.1	frequencies_mean:1.242551880116596	first_sol:1	divergence:0.11
+2025-07-05 17:04:39.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_002305895.1	frequencies_mean:1.5143905979119654	first_sol:2	divergence:0.14
+2025-07-05 17:04:39.482 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 17:27:16.546 [38;5;129mDEBUG[0m [pantaxr::profile] 		201	[3.0, 6.0]	0
+2025-07-05 17:27:16.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 17:27:16.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000816385.2	frequencies_mean:2.9296759793614187	first_sol:3	divergence:0.01
+2025-07-05 17:27:16.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_001017575.1	frequencies_mean:5.503794049736477	first_sol:6	divergence:0.04
+2025-07-05 17:27:16.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 17:45:03.348 [38;5;129mDEBUG[0m [pantaxr::profile] 		24	[2.0, 4.0]	0
+2025-07-05 17:45:03.349 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 18:03:37.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		174	[4.0, 16.0]	0
+2025-07-05 18:03:37.246 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 18:27:00.697 [38;5;129mDEBUG[0m [pantaxr::profile] 		200	[10.833333333333334, 3.0]	0
+2025-07-05 18:27:00.698 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 19:21:24.360 [38;5;129mDEBUG[0m [pantaxr::profile] 		206	[1.0, 4.0]	0
+2025-07-05 19:21:24.361 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 19:29:54.215 [38;5;129mDEBUG[0m [pantaxr::profile] 		173	[12.75]	0
+2025-07-05 19:29:54.216 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 1 / 1
+2025-07-05 19:29:54.216 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_005222585.1	frequencies_mean:7.28923234969654	first_sol:12.75	divergence:0.27
+2025-07-05 19:29:54.216 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 1 / 1
+2025-07-05 19:36:49.326 [38;5;129mDEBUG[0m [pantaxr::profile] 		213	[2.0, 15.333333333333332]	0
+2025-07-05 19:36:49.326 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 19:36:49.326 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000349975.1	frequencies_mean:2.1485487148593756	first_sol:2	divergence:0.04
+2025-07-05 19:36:49.326 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_021655575.1	frequencies_mean:13.823165783716979	first_sol:15.333333333333332	divergence:0.05
+2025-07-05 19:36:49.326 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 20:13:10.894 [38;5;129mDEBUG[0m [pantaxr::profile] 		35	[1.0, 2.0]	0
+2025-07-05 20:13:10.895 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+percentage: 62.5%
+2025-07-05 20:40:02.723 [38;5;129mDEBUG[0m [pantaxr::profile] 		199	[1.0, 3.0]	0
+2025-07-05 20:40:02.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 20:40:02.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_003048375.1	frequencies_mean:1.6402563075389704	first_sol:1	divergence:0.24
+2025-07-05 20:40:02.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_003048875.2	frequencies_mean:2.8317257329357477	first_sol:3	divergence:0.03
+2025-07-05 20:40:02.724 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 20:45:17.275 [38;5;129mDEBUG[0m [pantaxr::profile] 		201	[3.0, 6.0]	0
+2025-07-05 20:45:17.275 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-05 21:30:51.241 [38;5;129mDEBUG[0m [pantaxr::profile] 		122	[6.0, 20.0]	0
+2025-07-05 21:30:51.241 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 21:30:51.241 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_007747015.1	frequencies_mean:4.701942849212841	first_sol:6	divergence:0.12
+2025-07-05 21:30:51.241 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_009720545.1	frequencies_mean:15.931552640634626	first_sol:20	divergence:0.11
+2025-07-05 21:30:51.241 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 23:35:08.788 [38;5;129mDEBUG[0m [pantaxr::profile] 		69	[10.0, 4.0]	0
+2025-07-05 23:35:08.789 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-05 23:35:08.789 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_005954665.1	frequencies_mean:7.906590886385675	first_sol:10	divergence:0.12
+2025-07-05 23:35:08.789 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_023617245.1	frequencies_mean:3.1837641949979076	first_sol:4	divergence:0.11
+2025-07-05 23:35:08.789 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-05 23:48:36.567 [38;5;129mDEBUG[0m [pantaxr::profile] 		173	[12.75]	0
+2025-07-05 23:48:36.568 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 1 / 1
+
+2025-07-06 00:04:53.294 [38;5;129mDEBUG[0m [pantaxr::profile] 		213	[2.0, 15.333333333333332]	0
+2025-07-06 00:04:53.294 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 01:00:37.546 [38;5;129mDEBUG[0m [pantaxr::profile] 		210	[5.0, 5.0]	0
+2025-07-06 01:00:37.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 01:00:37.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000148855.1	frequencies_mean:5.251700370597336	first_sol:5	divergence:0.02
+2025-07-06 01:00:37.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000255955.1	frequencies_mean:4.5048691578489874	first_sol:5	divergence:0.05
+2025-07-06 01:00:37.547 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 01:47:30.835 [38;5;129mDEBUG[0m [pantaxr::profile] 		199	[1.0, 3.0]	0
+2025-07-06 01:47:30.835 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 02:06:26.279 [38;5;129mDEBUG[0m [pantaxr::profile] 		192	[2.6363636363636367, 2.0]	0
+2025-07-06 02:06:26.280 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 02:06:26.280 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_005222205.1	frequencies_mean:2.655371517135183	first_sol:2.6363636363636367	divergence:0
+2025-07-06 02:06:26.280 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_022023855.1	frequencies_mean:2.181465228722811	first_sol:2	divergence:0.04
+2025-07-06 02:06:26.280 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 03:34:07.662 [38;5;129mDEBUG[0m [pantaxr::profile] 		122	[6.0, 20.0]	0
+2025-07-06 03:34:07.662 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 03:56:46.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		158	[3.0, 3.0]	0
+2025-07-06 03:56:46.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 03:56:46.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_024181405.1	frequencies_mean:2.758535368161227	first_sol:3	divergence:0.04
+2025-07-06 03:56:46.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_024181485.1	frequencies_mean:3.0195142674800115	first_sol:3	divergence:0
+2025-07-06 03:56:46.087 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 06:34:25.570 [38;5;129mDEBUG[0m [pantaxr::profile] 		34	[4.0, 7.0]	0
+2025-07-06 06:34:25.570 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 06:34:25.570 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_006400955.1	frequencies_mean:4.552938813567011	first_sol:4	divergence:0.06
+2025-07-06 06:34:25.570 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_006401215.1	frequencies_mean:6.868553681792587	first_sol:7	divergence:0.01
+2025-07-06 06:34:25.570 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 06:53:35.450 [38;5;129mDEBUG[0m [pantaxr::profile] 		69	[10.0, 4.0]	0
+2025-07-06 06:53:35.450 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 07:33:03.612 [38;5;129mDEBUG[0m [pantaxr::profile] 		56	[2.0, 7.0]	0
+2025-07-06 07:33:03.613 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 07:33:03.613 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_000418325.1	frequencies_mean:1.8752553192305144	first_sol:2	divergence:0.03
+2025-07-06 07:33:03.613 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_004135755.1	frequencies_mean:6.09308223367125	first_sol:7	divergence:0.07
+2025-07-06 07:33:03.613 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 10:08:18.220 [38;5;129mDEBUG[0m [pantaxr::profile] 		210	[5.0, 5.0]	0
+2025-07-06 10:08:18.221 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 11:32:04.292 [38;5;129mDEBUG[0m [pantaxr::profile] 		192	[2.6363636363636367, 2.0]	0
+2025-07-06 11:32:04.293 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 11:51:39.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		562	[9.5, 1.2777777777777786]	0
+2025-07-06 11:51:39.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		First optimization #strains / #paths = 2 / 2
+2025-07-06 11:51:39.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_003790525.1	frequencies_mean:8.851525194433403	first_sol:9.5	divergence:0.04
+2025-07-06 11:51:39.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		hap_id:GCF_024223415.1	frequencies_mean:1.692894668292708	first_sol:1.2777777777777786	divergence:0.14
+2025-07-06 11:51:39.051 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second filter #strains / #paths = 2 / 2
+2025-07-06 14:11:58.536 [38;5;129mDEBUG[0m [pantaxr::profile] 		158	[3.0, 3.0]	0
+2025-07-06 14:11:58.536 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-06 19:37:00.084 [38;5;129mDEBUG[0m [pantaxr::profile] 		34	[4.0, 7.0]	0
+2025-07-06 19:37:00.085 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+percentage: 93.8%
+2025-07-06 22:25:32.024 [38;5;129mDEBUG[0m [pantaxr::profile] 		56	[2.0, 7.0]	0
+2025-07-06 22:25:32.026 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-07 03:38:32.852 [38;5;129mDEBUG[0m [pantaxr::profile] 		562	[9.5, 1.2777777777777786]	0
+2025-07-07 03:38:32.852 [38;5;129mDEBUG[0m [pantaxr::profile] 		Second optimization #strains / #paths = 2 / 2
+
+2025-07-07 03:38:34.464 [38;5;51mINFO[0m [pantaxr::profile] - Profiling execution clock time: 2363.46 min
+2025-07-07 03:38:34.464 [38;5;51mINFO[0m [pantaxr::profile] - Profiling execution cpu time: 18015.89 min

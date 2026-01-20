@@ -1,0 +1,5 @@
+species_taxid	strain_taxid	genome_ID	predicted_coverage	predicted_abundance	path_base_cov	unique_trio_fraction	uniq_trio_cov_mean	first_sol	strain_cov_diff	total_cov_diff
+Myxococcus_xanthus	34.4	GCF_006401215.1	15.51	0.39270401863923127	1.0	0.78	8.36	15.51	0.3	0.02
+Escherichia_coli	562.6	GCF_024223415.1	11.99	0.30361884833917707	1.0			11.99		0.0
+Escherichia_coli	562.3	GCF_002012065.1	8.0	0.20241383261776474	1.0			8.0		0.0
+Myxococcus_xanthus	34.2	GCF_006400955.1	4.0	0.10126330040382693	1.0	0.71	1.98	4.0	0.34	0.02

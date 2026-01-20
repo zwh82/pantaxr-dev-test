@@ -1,0 +1,3 @@
+species_taxid	strain_taxid	genome_ID	predicted_coverage	predicted_abundance	path_base_cov	unique_trio_fraction	uniq_trio_cov_mean	first_sol	strain_cov_diff	total_cov_diff
+29507	29507.1	GCF_024526015.1_FMAS_PN5				0.13				2.0
+29507	29507.2	GCF_030053735.1_ASM3005373v1				0.01				2.0

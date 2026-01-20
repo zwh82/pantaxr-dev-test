@@ -1,0 +1,1 @@
+/home/work/wenhai/PanTax/small_example/example_ngs_data/pantax_db_tmp/species_genomes_stats.txt

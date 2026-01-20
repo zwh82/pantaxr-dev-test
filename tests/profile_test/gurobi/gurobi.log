@@ -1,0 +1,2291 @@
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:32 2025
+
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 8453 rows, 4229 columns and 20278 nonzeros
+Model fingerprint: 0x761aeefb
+Variable types: 4227 continuous, 2 integer (2 binary)
+Coefficient statistics:
+Set parameter LogToConsole to value 0
+  Matrix range     [5e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [5e-02, 1e+01]
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 9323 rows, 4664 columns and 21838 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Model fingerprint: 0xb5a6abf6
+Variable types: 4662 continuous, 2 integer (2 binary)
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [1e+00, 2e+01]
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 10283 rows, 5144 columns and 24166 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Model fingerprint: 0xd165a4d0
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Variable types: 5142 continuous, 2 integer (2 binary)
+Optimize a model with 16215 rows, 8110 columns and 44576 nonzeros
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [3e-01, 3e+01]
+Model fingerprint: 0x27634772
+Variable types: 8108 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [1e-04, 1e-04]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [9e-01, 3e+01]
+Found heuristic solution: objective 6.6681043
+Found heuristic solution: objective 8.7300364
+Found heuristic solution: objective 2.5997099
+Found heuristic solution: objective 8.6848979
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 2246 rows, 1124 columns and 4491 nonzeros
+Model fingerprint: 0x44bb789c
+Variable types: 1123 continuous, 1 integer (1 binary)
+Coefficient statistics:
+  Matrix range     [1e-01, 1e+00]
+  Objective range  [9e-04, 9e-04]
+  Bounds range     [1e+00, 4e+00]
+  RHS range        [1e-03, 4e+00]
+Found heuristic solution: objective 0.6217402
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 16275 rows, 8140 columns and 39676 nonzeros
+Model fingerprint: 0x71df7a74
+Variable types: 8138 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [4e-02, 1e+00]
+  Objective range  [1e-04, 1e-04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [5e-02, 1e+01]
+Found heuristic solution: objective 2.4174026
+Presolve removed 1070 rows and 535 columns
+Presolve time: 0.01s
+Presolved: 1176 rows, 589 columns, 2352 nonzeros
+Presolve removed 6069 rows and 3035 columns
+Presolve time: 0.02s
+Presolved: 2384 rows, 1194 columns, 7054 nonzeros
+Presolve removed 6225 rows and 3113 columns
+Presolve time: 0.03s
+Presolved: 3098 rows, 1551 columns, 9214 nonzeros
+Presolve removed 6847 rows and 3424 columns
+Presolve time: 0.03s
+Presolved: 3436 rows, 1720 columns, 10112 nonzeros
+Found heuristic solution: objective 0.6217098
+Variable types: 589 continuous, 0 integer (0 binary)
+Presolve removed 9679 rows and 4840 columns
+Presolve time: 0.03s
+Presolved: 6536 rows, 3270 columns, 19538 nonzeros
+Variable types: 1194 continuous, 0 integer (0 binary)
+Variable types: 1551 continuous, 0 integer (0 binary)
+Variable types: 1720 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 3.479128e-01, 588 iterations, 0.02 seconds (0.02 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       0.3479128    0.34791  0.00%     -    0s
+
+Explored 1 nodes (588 simplex iterations) in 0.04 seconds (0.04 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 2: 0.347913 0.62174 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.479128197746e-01, best bound 3.479128197746e-01, gap 0.0000%
+Presolve removed 9531 rows and 4766 columns
+Presolve time: 0.04s
+Presolved: 6744 rows, 3374 columns, 20082 nonzeros
+Variable types: 3270 continuous, 0 integer (0 binary)
+Variable types: 3374 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.056103e+00, 1195 iterations, 0.03 seconds (0.07 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.0561031    1.05610  0.00%     -    0s
+
+Explored 1 nodes (1195 simplex iterations) in 0.07 seconds (0.10 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.0561 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.056103142327e+00, best bound 1.056103142327e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 8453 rows, 4229 columns and 20278 nonzeros
+Model fingerprint: 0x761aeefb
+Variable types: 4227 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [5e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [5e-02, 1e+01]
+Found heuristic solution: objective 2.5997099
+Presolve removed 6069 rows and 3035 columns
+Presolve time: 0.01s
+Presolved: 2384 rows, 1194 columns, 7054 nonzeros
+Variable types: 1194 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.247127e+00, 1736 iterations, 0.10 seconds (0.18 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.2471270    2.24713  0.00%     -    0s
+
+Explored 1 nodes (1736 simplex iterations) in 0.15 seconds (0.22 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.24713 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.247127024976e+00, best bound 2.247127024976e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Root relaxation: objective 1.056103e+00, 1195 iterations, 0.04 seconds (0.07 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.0561031    1.05610  0.00%     -    0s
+
+Explored 1 nodes (1195 simplex iterations) in 0.07 seconds (0.10 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.0561 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.056103142327e+00, best bound 1.056103142327e+00, gap 0.0000%
+
+Root relaxation: objective 2.013366e+00, 1556 iterations, 0.11 seconds (0.16 work units)
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 10283 rows, 5144 columns and 24166 nonzeros
+Model fingerprint: 0xd165a4d0
+Variable types: 5142 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [3e-01, 3e+01]
+Found heuristic solution: objective 8.7300364
+Presolve removed 6847 rows and 3424 columns
+Presolve time: 0.02s
+Presolved: 3436 rows, 1720 columns, 10112 nonzeros
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0133660    2.01337  0.00%     -    0s
+
+Root relaxation: objective 2.354347e+00, 3278 iterations, 0.13 seconds (0.22 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.3543473    2.35435  0.00%     -    0s
+
+Explored 1 nodes (3278 simplex iterations) in 0.19 seconds (0.28 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.35435 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.354347303136e+00, best bound 2.354347303136e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 16215 rows, 8110 columns and 44576 nonzeros
+Model fingerprint: 0x27634772
+Variable types: 8108 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [1e-04, 1e-04]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [9e-01, 3e+01]
+
+Explored 1 nodes (1556 simplex iterations) in 0.19 seconds (0.19 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.01337 
+
+Optimal solution found (tolerance 1.00e-04)
+Found heuristic solution: objective 8.6848979
+Best objective 2.013366036602e+00, best bound 2.013366036602e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 9323 rows, 4664 columns and 21838 nonzeros
+Model fingerprint: 0xb5a6abf6
+Variable types: 4662 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-04, 2e-04]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [1e+00, 2e+01]
+Variable types: 1720 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 6.6681043
+Presolve removed 9679 rows and 4840 columns
+Presolve time: 0.03s
+Presolved: 6536 rows, 3270 columns, 19538 nonzeros
+Presolve removed 6225 rows and 3113 columns
+Presolve time: 0.04s
+Presolved: 3098 rows, 1551 columns, 9214 nonzeros
+Variable types: 3270 continuous, 0 integer (0 binary)
+Variable types: 1551 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.247127e+00, 1736 iterations, 0.10 seconds (0.18 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.2471270    2.24713  0.00%     -    0s
+
+Explored 1 nodes (1736 simplex iterations) in 0.13 seconds (0.22 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.24713 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.247127024976e+00, best bound 2.247127024976e+00, gap 0.0000%
+
+Root relaxation: objective 2.013366e+00, 1556 iterations, 0.07 seconds (0.16 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0133660    2.01337  0.00%     -    0s
+
+Explored 1 nodes (1556 simplex iterations) in 0.13 seconds (0.19 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.01337 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.013366036602e+00, best bound 2.013366036602e+00, gap 0.0000%
+
+Root relaxation: objective 1.267859e+00, 3751 iterations, 0.27 seconds (0.46 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.2678588    1.26786  0.00%     -    0s
+
+Explored 1 nodes (3751 simplex iterations) in 0.33 seconds (0.52 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.26786 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.267858808207e+00, best bound 1.267858808207e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 16275 rows, 8140 columns and 39676 nonzeros
+Model fingerprint: 0x71df7a74
+Variable types: 8138 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [4e-02, 1e+00]
+  Objective range  [1e-04, 1e-04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [5e-02, 1e+01]
+Found heuristic solution: objective 2.4174026
+
+Root relaxation: objective 2.354347e+00, 3278 iterations, 0.12 seconds (0.22 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.3543473    2.35435  0.00%     -    0s
+
+Explored 1 nodes (3278 simplex iterations) in 0.17 seconds (0.28 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.35435 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.354347303136e+00, best bound 2.354347303136e+00, gap 0.0000%
+Presolve removed 9531 rows and 4766 columns
+Presolve time: 0.03s
+Presolved: 6744 rows, 3374 columns, 20082 nonzeros
+Variable types: 3374 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.267859e+00, 3751 iterations, 0.25 seconds (0.46 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.2678588    1.26786  0.00%     -    0s
+
+Explored 1 nodes (3751 simplex iterations) in 0.30 seconds (0.52 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.26786 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.267858808207e+00, best bound 1.267858808207e+00, gap 0.0000%
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 59653 rows, 29829 columns and 161260 nonzeros
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+Model fingerprint: 0xece83e84
+Variable types: 29827 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [3e-05, 3e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [8e-03, 2e+01]
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 171449 rows, 85727 columns and 481720 nonzeros
+Found heuristic solution: objective 6.6061605
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+Model fingerprint: 0x6b07a218
+Variable types: 85725 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [9e-03, 5e+01]
+Found heuristic solution: objective 9.6047087
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 94051 rows, 47028 columns and 210656 nonzeros
+Model fingerprint: 0x527bb525
+Variable types: 47026 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-05, 2e-05]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [6e-03, 4e+01]
+Found heuristic solution: objective 7.4771526
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:34 2025
+
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 132175 rows, 66090 columns and 315874 nonzeros
+Model fingerprint: 0x7653bc07
+Variable types: 66088 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [2e-05, 2e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [7e-03, 2e+01]
+Found heuristic solution: objective 4.9720016
+Presolve removed 45271 rows and 22636 columns
+Presolve time: 0.13s
+Presolved: 14382 rows, 7193 columns, 42948 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 168935 rows, 84470 columns and 395792 nonzeros
+Model fingerprint: 0x660f4655
+Variable types: 84468 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [2e-02, 2e+01]
+Found heuristic solution: objective 6.2785714
+Variable types: 7193 continuous, 0 integer (0 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 221484 rows, 110743 columns and 409297 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 190046 rows, 95027 columns and 609937 nonzeros
+Model fingerprint: 0x0d51df69
+Variable types: 110742 continuous, 1 integer (1 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [9e-06, 9e-06]
+  Bounds range     [1e+00, 7e+01]
+  RHS range        [6e-04, 7e+01]
+Model fingerprint: 0x1411087b
+Variable types: 95024 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [6e-03, 2e+01]
+Found heuristic solution: objective 12.0363420
+Found heuristic solution: objective 2.9725627
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 231625 rows, 115815 columns and 598618 nonzeros
+Model fingerprint: 0x9febc480
+Variable types: 115813 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [8e-03, 1e+00]
+  Objective range  [9e-06, 9e-06]
+  Bounds range     [1e+00, 6e+01]
+  RHS range        [1e-02, 6e+01]
+Found heuristic solution: objective 7.8175312
+Presolve removed 73689 rows and 36845 columns
+Presolve time: 0.19s
+Presolved: 20362 rows, 10183 columns, 53168 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 292583 rows, 146294 columns and 731768 nonzeros
+Model fingerprint: 0xe8df26a6
+Variable types: 146292 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [7e-06, 7e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [7e-03, 2e+01]
+Found heuristic solution: objective 4.8635784
+Variable types: 10183 continuous, 0 integer (0 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 354249 rows, 177127 columns and 829518 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 316413 rows, 158209 columns and 750060 nonzeros
+Model fingerprint: 0xf4956b59
+Variable types: 177125 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [4e-02, 4e+01]
+Model fingerprint: 0xa9bec2a8
+Variable types: 158207 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 8e+01]
+  RHS range        [2e-03, 7e+01]
+Found heuristic solution: objective 9.4913139
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 362161 rows, 181083 columns and 893260 nonzeros
+Found heuristic solution: objective 14.0471786
+Model fingerprint: 0x208b5823
+Variable types: 181081 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [2e-02, 2e+01]
+Found heuristic solution: objective 4.2931859
+Presolve removed 111491 rows and 55746 columns
+Presolve time: 0.29s
+Presolved: 20684 rows, 10344 columns, 61466 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 374625 rows, 187315 columns and 903860 nonzeros
+Model fingerprint: 0xab872b33
+Variable types: 187313 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [4e-02, 1e+00]
+  Objective range  [5e-06, 5e-06]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [2e-03, 1e+01]
+Found heuristic solution: objective 2.2748630
+Variable types: 10344 continuous, 0 integer (0 binary)
+Presolve removed 141763 rows and 70882 columns
+Presolve time: 0.45s
+Presolved: 29686 rows, 14845 columns, 87354 nonzeros
+Presolve removed 150505 rows and 75253 columns
+Presolve time: 0.30s
+Presolved: 18430 rows, 9217 columns, 54746 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 416493 rows, 208249 columns and 1137298 nonzeros
+Model fingerprint: 0x4890c8f6
+Variable types: 208247 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [5e-06, 5e-06]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [3e-02, 3e+01]
+Found heuristic solution: objective 8.0187192
+Variable types: 9217 continuous, 0 integer (0 binary)
+Variable types: 14845 continuous, 0 integer (0 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 505945 rows, 252975 columns and 1247968 nonzeros
+Model fingerprint: 0xfe1d0172
+Variable types: 252973 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [6e-03, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 9e+01]
+  RHS range        [7e-03, 8e+01]
+Found heuristic solution: objective 13.0506731
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 494221 rows, 247113 columns and 1154504 nonzeros
+Presolve removed 199613 rows and 99807 columns
+Presolve time: 0.40s
+Presolved: 32012 rows, 16008 columns, 92672 nonzeros
+Model fingerprint: 0x865e3b59
+Variable types: 247111 continuous, 2 integer (2 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 589597 rows, 294801 columns and 1514814 nonzeros
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [3e-01, 5e+01]
+Presolve removed 198823 rows and 99411 columns
+Presolve time: 0.46s
+Presolved: 22661 rows, 11332 columns, 45322 nonzeros
+Presolve removed 171242 rows and 85622 columns
+Presolve time: 0.46s
+Presolved: 18804 rows, 9405 columns, 67786 nonzeros
+Model fingerprint: 0x191717d5
+Variable types: 294799 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [3e-06, 3e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [1e-02, 2e+01]
+Found heuristic solution: objective 17.5751535
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 693495 rows, 346750 columns and 1716552 nonzeros
+Found heuristic solution: objective 3.5120862
+Model fingerprint: 0xfeff0aef
+Variable types: 346748 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [3e-06, 3e-06]
+  Bounds range     [1e+00, 7e+01]
+  RHS range        [4e-03, 7e+01]
+Variable types: 9405 continuous, 0 integer (0 binary)
+Variable types: 16008 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 10.2069248
+Found heuristic solution: objective 12.0357316
+Variable types: 11332 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.160849e+00, 7209 iterations, 0.58 seconds (1.13 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.1608486    2.16085  0.00%     -    0s
+
+Explored 1 nodes (7209 simplex iterations) in 0.76 seconds (1.29 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.16085 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.160848624912e+00, best bound 2.160848624912e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:35 2025
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 59653 rows, 29829 columns and 161260 nonzeros
+Model fingerprint: 0xece83e84
+Variable types: 29827 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [3e-05, 3e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [8e-03, 2e+01]
+Found heuristic solution: objective 6.6061605
+Found heuristic solution: objective 12.0354223
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 819177 rows, 409591 columns and 2036438 nonzeros
+Model fingerprint: 0x37e33535
+Variable types: 409589 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [4e-03, 2e+01]
+Presolve removed 250681 rows and 125341 columns
+Presolve time: 0.59s
+Presolved: 41902 rows, 20953 columns, 121650 nonzeros
+Presolve removed 45271 rows and 22636 columns
+Presolve time: 0.12s
+Presolved: 14382 rows, 7193 columns, 42948 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+Found heuristic solution: objective 3.6534657
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 554536 rows, 277269 columns and 1023447 nonzeros
+Variable types: 7193 continuous, 0 integer (0 binary)
+Model fingerprint: 0x416cefbd
+Variable types: 277268 continuous, 1 integer (1 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 8e+01]
+  RHS range        [3e-03, 7e+01]
+Variable types: 20953 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 11.5545483
+Presolve removed 264093 rows and 132047 columns
+Presolve time: 0.72s
+Presolved: 52320 rows, 26162 columns, 150102 nonzeros
+
+Root relaxation: objective 2.064047e+00, 9239 iterations, 0.56 seconds (1.08 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0640465    2.06405  0.00%     -    0s
+
+Explored 1 nodes (9239 simplex iterations) in 0.98 seconds (1.46 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.06405 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.064046511260e+00, best bound 2.064046511260e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 168935 rows, 84470 columns and 395792 nonzeros
+Model fingerprint: 0x660f4655
+Variable types: 84468 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [2e-02, 2e+01]
+Presolve removed 340195 rows and 170098 columns
+Presolve time: 0.76s
+Presolved: 21966 rows, 10985 columns, 62824 nonzeros
+Found heuristic solution: objective 6.2785714
+Variable types: 26162 continuous, 0 integer (0 binary)
+Variable types: 10985 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.679639e+00, 10339 iterations, 0.93 seconds (1.52 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.6796388    2.67964  0.00%     -    1s
+
+Explored 1 nodes (10339 simplex iterations) in 1.19 seconds (1.74 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.67964 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.679638791490e+00, best bound 2.679638791490e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 94051 rows, 47028 columns and 210656 nonzeros
+Model fingerprint: 0x527bb525
+Variable types: 47026 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-05, 2e-05]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [6e-03, 4e+01]
+Presolve removed 320641 rows and 160321 columns
+Presolve time: 0.80s
+Found heuristic solution: objective 7.4771526
+Presolved: 53984 rows, 26994 columns, 159994 nonzeros
+Variable types: 26994 continuous, 0 integer (0 binary)
+Presolve removed 150505 rows and 75253 columns
+Presolve time: 0.26s
+Presolved: 18430 rows, 9217 columns, 54746 nonzeros
+Variable types: 9217 continuous, 0 integer (0 binary)
+Presolve removed 325269 rows and 162635 columns
+Presolve time: 1.11s
+Presolved: 28980 rows, 14492 columns, 85144 nonzeros
+Presolve removed 73689 rows and 36845 columns
+Presolve time: 0.22s
+Presolved: 20362 rows, 10183 columns, 53168 nonzeros
+
+Root relaxation: objective 1.724244e+00, 9908 iterations, 0.72 seconds (1.24 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7242436    1.72424  0.00%     -    1s
+
+Explored 1 nodes (9908 simplex iterations) in 1.32 seconds (1.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.72424 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.724243646394e+00, best bound 1.724243646394e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Root relaxation: objective 2.160849e+00, 7209 iterations, 0.58 seconds (1.13 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.1608486    2.16085  0.00%     -    0s
+
+Explored 1 nodes (7209 simplex iterations) in 0.74 seconds (1.29 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.16085 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.160848624912e+00, best bound 2.160848624912e+00, gap 0.0000%
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 190046 rows, 95027 columns and 609937 nonzeros
+Model fingerprint: 0x1411087b
+Variable types: 95024 continuous, 3 integer (3 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [6e-03, 2e+01]
+Variable types: 10183 continuous, 0 integer (0 binary)
+Variable types: 14492 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 2.9725627
+
+Root relaxation: objective 4.081197e+00, 11327 iterations, 0.73 seconds (1.63 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       4.0811970    4.08120  0.00%     -    1s
+
+Explored 1 nodes (11327 simplex iterations) in 1.41 seconds (2.25 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 2: 4.0812 12.0363 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.081196998697e+00, best bound 4.081196998697e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 221484 rows, 110743 columns and 409297 nonzeros
+Model fingerprint: 0x0d51df69
+Variable types: 110742 continuous, 1 integer (1 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [9e-06, 9e-06]
+  Bounds range     [1e+00, 7e+01]
+  RHS range        [6e-04, 7e+01]
+Found heuristic solution: objective 12.0363420
+Presolve removed 468111 rows and 234056 columns
+Presolve time: 1.15s
+Presolved: 37834 rows, 18919 columns, 100748 nonzeros
+Presolve removed 435391 rows and 217696 columns
+Presolve time: 1.11s
+Presolved: 58830 rows, 29417 columns, 173536 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 826733 rows, 413369 columns and 2158694 nonzeros
+Variable types: 18919 continuous, 0 integer (0 binary)
+Model fingerprint: 0xf4348854
+Variable types: 413367 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [2e-04, 4e+01]
+Found heuristic solution: objective 8.4785934
+Variable types: 29417 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.826696e+00, 14929 iterations, 1.40 seconds (2.86 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.8266960    2.82670  0.00%     -    1s
+Presolve removed 570163 rows and 285082 columns
+Presolve time: 1.25s
+Presolved: 19434 rows, 9719 columns, 53816 nonzeros
+
+Explored 1 nodes (14929 simplex iterations) in 1.95 seconds (3.33 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.8267 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.826695952063e+00, best bound 2.826695952063e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 171449 rows, 85727 columns and 481720 nonzeros
+Model fingerprint: 0x6b07a218
+Variable types: 85725 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [1e-05, 1e-05]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [9e-03, 5e+01]
+Found heuristic solution: objective 9.6047087
+Presolve removed 171242 rows and 85622 columns
+Presolve time: 0.44s
+Presolved: 18804 rows, 9405 columns, 67786 nonzeros
+Presolve removed 198823 rows and 99411 columns
+Presolve time: 0.39s
+Presolved: 22661 rows, 11332 columns, 45322 nonzeros
+Variable types: 9719 continuous, 0 integer (0 binary)
+Variable types: 9405 continuous, 0 integer (0 binary)
+Presolve removed 394513 rows and 197257 columns
+Presolve time: 1.54s
+Presolved: 21980 rows, 10992 columns, 62278 nonzeros
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:36 2025
+
+
+Root relaxation: objective 2.064047e+00, 9239 iterations, 0.55 seconds (1.08 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0640465    2.06405  0.00%     -    0s
+
+Explored 1 nodes (9239 simplex iterations) in 0.94 seconds (1.46 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.06405 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.064046511260e+00, best bound 2.064046511260e+00, gap 0.0000%
+Found heuristic solution: objective 12.0357316
+Variable types: 11332 continuous, 0 integer (0 binary)
+Variable types: 10992 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.753339e+00, 10997 iterations, 1.65 seconds (2.81 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7533387    1.75334  0.00%     -    2s
+
+Explored 1 nodes (10997 simplex iterations) in 2.01 seconds (3.12 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.75334 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.753338718684e+00, best bound 1.753338718684e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 132175 rows, 66090 columns and 315874 nonzeros
+Model fingerprint: 0x7653bc07
+Variable types: 66088 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [2e-05, 2e-05]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [7e-03, 2e+01]
+Found heuristic solution: objective 4.9720016
+Found heuristic solution: objective 12.0354223
+Presolve removed 499269 rows and 249634 columns
+Presolve time: 1.28s
+Presolved: 55267 rows, 27635 columns, 110534 nonzeros
+
+Root relaxation: objective 1.635584e+00, 11380 iterations, 0.99 seconds (1.80 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.6355840    1.63558  0.00%     -    1s
+
+Explored 1 nodes (11380 simplex iterations) in 1.93 seconds (2.57 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.63558 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.635584039192e+00, best bound 1.635584039192e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 362161 rows, 181083 columns and 893260 nonzeros
+Model fingerprint: 0x208b5823
+Variable types: 181081 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [2e-02, 2e+01]
+Found heuristic solution: objective 4.2931859
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:36 2025
+
+Presolve removed 111491 rows and 55746 columns
+Presolve time: 0.26s
+Presolved: 20684 rows, 10344 columns, 61466 nonzeros
+
+Root relaxation: objective 2.679639e+00, 10339 iterations, 0.92 seconds (1.52 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.6796388    2.67964  0.00%     -    1s
+Variable types: 10344 continuous, 0 integer (0 binary)
+
+Explored 1 nodes (10339 simplex iterations) in 1.20 seconds (1.74 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.67964 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.679638791490e+00, best bound 2.679638791490e+00, gap 0.0000%
+Found heuristic solution: objective 11.5539304
+Variable types: 27635 continuous, 0 integer (0 binary)
+Presolve removed 141763 rows and 70882 columns
+Presolve time: 0.52s
+Presolved: 29686 rows, 14845 columns, 87354 nonzeros
+
+Root relaxation: objective 1.452607e+00, 9796 iterations, 0.44 seconds (0.78 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.4526072    1.45261  0.00%     -    1s
+
+Explored 1 nodes (9796 simplex iterations) in 1.88 seconds (2.04 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.45261 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.452607171797e+00, best bound 1.452607171797e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 589597 rows, 294801 columns and 1514814 nonzeros
+Model fingerprint: 0x191717d5
+Variable types: 294799 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [3e-06, 3e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [1e-02, 2e+01]
+Variable types: 14845 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 3.5120862
+Found heuristic solution: objective 11.5539248
+Presolve removed 792685 rows and 396343 columns
+Presolve time: 1.82s
+Presolved: 26492 rows, 13248 columns, 73928 nonzeros
+
+Root relaxation: objective 1.724244e+00, 9908 iterations, 0.70 seconds (1.24 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7242436    1.72424  0.00%     -    1s
+
+Explored 1 nodes (9908 simplex iterations) in 1.26 seconds (1.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.72424 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.724243646394e+00, best bound 1.724243646394e+00, gap 0.0000%
+Variable types: 13248 continuous, 0 integer (0 binary)
+Presolve removed 623113 rows and 311557 columns
+Presolve time: 2.09s
+Presolved: 70382 rows, 35193 columns, 204380 nonzeros
+
+Root relaxation: objective 4.081197e+00, 11327 iterations, 0.72 seconds (1.63 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       4.0811970    4.08120  0.00%     -    1s
+
+Root relaxation: objective 2.527526e+00, 14512 iterations, 1.29 seconds (2.32 work units)
+
+Explored 1 nodes (11327 simplex iterations) in 1.33 seconds (2.25 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 2: 4.0812 12.0363 
+
+Optimal solution found (tolerance 1.00e-04)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.5275262    2.52753  0.00%     -    2s
+Best objective 4.081196998697e+00, best bound 4.081196998697e+00, gap 0.0000%
+
+Explored 1 nodes (14512 simplex iterations) in 2.62 seconds (3.47 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.52753 
+
+Optimal solution found (tolerance 1.00e-04)
+
+Root relaxation: objective 2.414833e+00, 11062 iterations, 0.76 seconds (1.65 work units)
+Best objective 2.527526244738e+00, best bound 2.527526244738e+00, gap 0.0000%
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.4148331    2.41483  0.00%     -    2s
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 354249 rows, 177127 columns and 829518 nonzeros
+Model fingerprint: 0xf4956b59
+Variable types: 177125 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [4e-02, 4e+01]
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:37 2025
+
+Variable types: 35193 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 9.4913139
+
+Explored 1 nodes (11062 simplex iterations) in 2.49 seconds (3.15 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.41483 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.414833074222e+00, best bound 2.414833074222e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 416493 rows, 208249 columns and 1137298 nonzeros
+Model fingerprint: 0x4890c8f6
+Variable types: 208247 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [5e-06, 5e-06]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [3e-02, 3e+01]
+Found heuristic solution: objective 8.0187192
+Presolve removed 340195 rows and 170098 columns
+Presolve time: 0.72s
+Presolved: 21966 rows, 10985 columns, 62824 nonzeros
+Variable types: 10985 continuous, 0 integer (0 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 904819 rows, 452412 columns and 2303296 nonzeros
+
+Root relaxation: objective 2.446380e+00, 16014 iterations, 2.31 seconds (4.67 work units)
+Model fingerprint: 0x135ae285
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.4463797    2.44638  0.00%     -    2s
+Variable types: 452410 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [5e-03, 5e+01]
+
+Explored 1 nodes (16014 simplex iterations) in 2.92 seconds (5.25 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.44638 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.446379729583e+00, best bound 2.446379729583e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 231625 rows, 115815 columns and 598618 nonzeros
+Model fingerprint: 0x9febc480
+Variable types: 115813 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [8e-03, 1e+00]
+  Objective range  [9e-06, 9e-06]
+  Bounds range     [1e+00, 6e+01]
+  RHS range        [1e-02, 6e+01]
+Found heuristic solution: objective 7.8175312
+Found heuristic solution: objective 4.6956822
+Presolve removed 199613 rows and 99807 columns
+Presolve time: 0.33s
+Presolved: 32012 rows, 16008 columns, 92672 nonzeros
+Presolve removed 805347 rows and 402674 columns
+Presolve time: 1.65s
+Presolved: 21386 rows, 10695 columns, 57444 nonzeros
+Variable types: 16008 continuous, 0 integer (0 binary)
+Variable types: 10695 continuous, 0 integer (0 binary)
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2364496 nonzeros
+Model fingerprint: 0xaf603a98
+Variable types: 500002 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [4e-03, 3e+01]
+Presolve removed 570163 rows and 285082 columns
+Presolve time: 1.06s
+Presolved: 19434 rows, 9719 columns, 53816 nonzeros
+Found heuristic solution: objective 6.5425193
+Variable types: 9719 continuous, 0 integer (0 binary)
+Presolve removed 325269 rows and 162635 columns
+Presolve time: 0.93s
+Presolved: 28980 rows, 14492 columns, 85144 nonzeros
+
+Root relaxation: objective 2.965753e+00, 19338 iterations, 1.99 seconds (3.60 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.9657531    2.96575  0.00%     -    3s
+
+Root relaxation: objective 2.826696e+00, 14929 iterations, 1.38 seconds (2.86 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.8266960    2.82670  0.00%     -    1s
+
+Explored 1 nodes (19338 simplex iterations) in 3.40 seconds (4.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.96575 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.965753124766e+00, best bound 2.965753124766e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Explored 1 nodes (14929 simplex iterations) in 1.98 seconds (3.33 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.8267 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.826695952063e+00, best bound 2.826695952063e+00, gap 0.0000%
+Variable types: 14492 continuous, 0 integer (0 binary)
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 505945 rows, 252975 columns and 1247968 nonzeros
+Model fingerprint: 0xfe1d0172
+Variable types: 252973 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [6e-03, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 9e+01]
+  RHS range        [7e-03, 8e+01]
+Found heuristic solution: objective 13.0506731
+
+Root relaxation: objective 2.556632e+00, 10758 iterations, 0.39 seconds (0.84 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.5566323    2.55663  0.00%     -    2s
+
+Root relaxation: objective 1.503378e+00, 13356 iterations, 1.15 seconds (2.42 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.5033776    1.50338  0.00%     -    3s
+
+Explored 1 nodes (10758 simplex iterations) in 2.26 seconds (2.64 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.55663 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.556632315842e+00, best bound 2.556632315841e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Root relaxation: objective 1.753339e+00, 10997 iterations, 1.62 seconds (2.81 work units)
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 826733 rows, 413369 columns and 2158694 nonzeros
+Model fingerprint: 0xf4348854
+Variable types: 413367 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 4e+01]
+  RHS range        [2e-04, 4e+01]
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7533387    1.75334  0.00%     -    1s
+
+Explored 1 nodes (10997 simplex iterations) in 1.95 seconds (3.12 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.75334 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.753338718684e+00, best bound 1.753338718684e+00, gap 0.0000%
+Presolve removed 394513 rows and 197257 columns
+Presolve time: 1.09s
+Presolved: 21980 rows, 10992 columns, 62278 nonzeros
+Found heuristic solution: objective 8.4785934
+
+Root relaxation: objective 1.635584e+00, 11380 iterations, 0.97 seconds (1.80 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.6355840    1.63558  0.00%     -    1s
+
+Explored 1 nodes (13356 simplex iterations) in 3.28 seconds (4.16 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.50338 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.503377559583e+00, best bound 1.503377559583e+00, gap 0.0000%
+
+Explored 1 nodes (11380 simplex iterations) in 1.85 seconds (2.57 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.63558 
+
+Optimal solution found (tolerance 1.00e-04)
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 819177 rows, 409591 columns and 2036438 nonzeros
+Model fingerprint: 0x37e33535
+Variable types: 409589 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [3e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [4e-03, 2e+01]
+Best objective 1.635584039192e+00, best bound 1.635584039192e+00, gap 0.0000%
+Variable types: 10992 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 3.6534657
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+
+Root relaxation: objective 1.452607e+00, 9796 iterations, 0.44 seconds (0.78 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.4526072    1.45261  0.00%     -    1s
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2566878 nonzeros
+
+Explored 1 nodes (9796 simplex iterations) in 1.68 seconds (2.04 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.45261 
+
+Optimal solution found (tolerance 1.00e-04)
+Model fingerprint: 0xaeeddba0
+Variable types: 500002 continuous, 2 integer (2 binary)
+Best objective 1.452607171797e+00, best bound 1.452607171797e+00, gap 0.0000%
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 6e+01]
+  RHS range        [2e-03, 5e+01]
+Found heuristic solution: objective 8.9177059
+
+Root relaxation: objective 1.969979e+00, 21203 iterations, 3.48 seconds (6.86 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.9699789    1.96998  0.00%     -    4s
+
+Explored 1 nodes (21203 simplex iterations) in 4.33 seconds (7.60 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.96998 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.969978942278e+00, best bound 1.969978942278e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 292583 rows, 146294 columns and 731768 nonzeros
+Model fingerprint: 0xe8df26a6
+Variable types: 146292 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [7e-06, 7e-06]
+  Bounds range     [1e+00, 2e+01]
+  RHS range        [7e-03, 2e+01]
+Found heuristic solution: objective 4.8635784
+
+Root relaxation: objective 2.414833e+00, 11062 iterations, 0.73 seconds (1.65 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.4148331    2.41483  0.00%     -    1s
+
+Explored 1 nodes (11062 simplex iterations) in 1.98 seconds (3.15 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.41483 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.414833074222e+00, best bound 2.414833074222e+00, gap 0.0000%
+Presolve removed 873281 rows and 436641 columns
+Presolve time: 1.83s
+Presolved: 31538 rows, 15771 columns, 81798 nonzeros
+Variable types: 15771 continuous, 0 integer (0 binary)
+Presolve removed 468111 rows and 234056 columns
+Presolve time: 1.09s
+Presolved: 37834 rows, 18919 columns, 100748 nonzeros
+Variable types: 18919 continuous, 0 integer (0 binary)
+Presolve removed 250681 rows and 125341 columns
+Presolve time: 0.54s
+Presolved: 41902 rows, 20953 columns, 121650 nonzeros
+Variable types: 20953 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 2.527526e+00, 14512 iterations, 1.27 seconds (2.32 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.5275262    2.52753  0.00%     -    2s
+
+Explored 1 nodes (14512 simplex iterations) in 2.39 seconds (3.47 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.52753 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.527526244738e+00, best bound 2.527526244738e+00, gap 0.0000%
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   10920    2.1639012e+00   8.087438e+03   0.000000e+00      5s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    4645    2.7343737e-01   3.592982e+04   0.000000e+00      5s
+Presolve removed 805347 rows and 402674 columns
+Presolve time: 1.56s
+Presolved: 21386 rows, 10695 columns, 57444 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    7037    9.7496041e-01   1.993194e+04   0.000000e+00      5s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   15084    2.9482298e+00   6.436071e+03   0.000000e+00      5s
+Variable types: 10695 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.783152e+00, 15799 iterations, 0.67 seconds (1.75 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7831523    1.78315  0.00%     -    2s
+
+Explored 1 nodes (15799 simplex iterations) in 2.79 seconds (3.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.78315 
+
+Optimal solution found (tolerance 1.00e-04)
+Presolve removed 792685 rows and 396343 columns
+Presolve time: 1.72s
+Best objective 1.783152267243e+00, best bound 1.783152267243e+00, gap 0.0000%
+Presolved: 26492 rows, 13248 columns, 73928 nonzeros
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 904819 rows, 452412 columns and 2303296 nonzeros
+Model fingerprint: 0x135ae285
+Variable types: 452410 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [5e-03, 5e+01]
+Found heuristic solution: objective 4.6956822
+
+Root relaxation: objective 2.446380e+00, 16014 iterations, 2.31 seconds (4.67 work units)
+Variable types: 13248 continuous, 0 integer (0 binary)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.4463797    2.44638  0.00%     -    2s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   23901    3.6183268e+00   3.777059e+02   0.000000e+00      5s
+
+Explored 1 nodes (16014 simplex iterations) in 2.83 seconds (5.25 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.44638 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.446379729583e+00, best bound 2.446379729583e+00, gap 0.0000%
+
+Root relaxation: objective 2.556632e+00, 10758 iterations, 0.37 seconds (0.84 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.5566323    2.55663  0.00%     -    2s
+
+Explored 1 nodes (10758 simplex iterations) in 2.12 seconds (2.64 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.55663 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.556632315842e+00, best bound 2.556632315841e+00, gap 0.0000%
+Presolve removed 940375 rows and 470188 columns
+Presolve time: 1.96s
+Presolved: 59628 rows, 29816 columns, 164980 nonzeros
+   27631    3.6848385e+00   0.000000e+00   0.000000e+00      5s
+
+Root relaxation: objective 3.684838e+00, 27631 iterations, 3.60 seconds (7.66 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.6848385    3.68484  0.00%     -    5s
+
+Explored 1 nodes (27631 simplex iterations) in 5.39 seconds (9.27 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 2: 3.68484 11.5545 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.684838465807e+00, best bound 3.684838465807e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 554536 rows, 277269 columns and 1023447 nonzeros
+Model fingerprint: 0x416cefbd
+Variable types: 277268 continuous, 1 integer (1 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 8e+01]
+  RHS range        [3e-03, 7e+01]
+
+Gurobi 11.0.3 (linux64) logging started Tue Jul  8 14:20:40 2025
+
+Variable types: 29816 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 11.5545483
+Presolve removed 936043 rows and 468022 columns
+Presolve time: 2.92s
+Presolved: 63960 rows, 31982 columns, 185178 nonzeros
+Variable types: 31982 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.503378e+00, 13356 iterations, 1.11 seconds (2.42 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.5033776    1.50338  0.00%     -    3s
+
+Explored 1 nodes (13356 simplex iterations) in 3.09 seconds (4.16 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.50338 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.503377559583e+00, best bound 1.503377559583e+00, gap 0.0000%
+
+Root relaxation: objective 2.965753e+00, 19338 iterations, 1.98 seconds (3.60 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.9657531    2.96575  0.00%     -    3s
+
+Explored 1 nodes (19338 simplex iterations) in 3.31 seconds (4.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.96575 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.965753124766e+00, best bound 2.965753124766e+00, gap 0.0000%
+Presolve removed 499269 rows and 249634 columns
+Presolve time: 0.96s
+Presolved: 55267 rows, 27635 columns, 110534 nonzeros
+Found heuristic solution: objective 11.5539304
+Variable types: 27635 continuous, 0 integer (0 binary)
+Presolve removed 873281 rows and 436641 columns
+Presolve time: 1.58s
+Presolved: 31538 rows, 15771 columns, 81798 nonzeros
+Set parameter LogToConsole to value 0
+Set parameter Threads to value 1
+Set parameter Method to value 4
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2861944 nonzeros
+Variable types: 15771 continuous, 0 integer (0 binary)
+Model fingerprint: 0xc8dff7f2
+Variable types: 500002 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-03, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 5e+02]
+  RHS range        [1e-02, 5e+02]
+Found heuristic solution: objective 10.8053143
+Found heuristic solution: objective 11.5539248
+   29606    3.4333701e+00   0.000000e+00   0.000000e+00      7s
+
+Root relaxation: objective 3.433370e+00, 29606 iterations, 5.73 seconds (11.23 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.4333701    3.43337  0.00%     -    7s
+
+Explored 1 nodes (29606 simplex iterations) in 7.21 seconds (12.42 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.43337 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.433370130623e+00, best bound 3.433370130622e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 494221 rows, 247113 columns and 1154504 nonzeros
+Model fingerprint: 0x865e3b59
+Variable types: 247111 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-02, 1e+00]
+  Objective range  [4e-06, 4e-06]
+  Bounds range     [1e+00, 5e+01]
+  RHS range        [3e-01, 5e+01]
+Found heuristic solution: objective 17.5751535
+
+Root relaxation: objective 1.783152e+00, 15799 iterations, 0.67 seconds (1.75 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.7831523    1.78315  0.00%     -    2s
+
+Explored 1 nodes (15799 simplex iterations) in 2.51 seconds (3.73 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.78315 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.783152267243e+00, best bound 1.783152267243e+00, gap 0.0000%
+   26509    3.0943751e+00   0.000000e+00   0.000000e+00      8s
+
+Root relaxation: objective 3.094375e+00, 26509 iterations, 7.30 seconds (13.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.0943751    3.09438  0.00%     -    8s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    4369    7.0328589e-01   3.524722e+04   0.000000e+00      5s
+Presolve removed 435391 rows and 217696 columns
+Presolve time: 0.78s
+Presolved: 58830 rows, 29417 columns, 173536 nonzeros
+
+Explored 1 nodes (26509 simplex iterations) in 8.34 seconds (13.81 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.09438 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.094375087127e+00, best bound 3.094375087127e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 316413 rows, 158209 columns and 750060 nonzeros
+Model fingerprint: 0xa9bec2a8
+Variable types: 158207 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [6e-06, 6e-06]
+  Bounds range     [1e+00, 8e+01]
+  RHS range        [2e-03, 7e+01]
+Found heuristic solution: objective 14.0471786
+Variable types: 29417 continuous, 0 integer (0 binary)
+
+Root relaxation: objective 1.969979e+00, 21203 iterations, 3.44 seconds (6.86 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.9699789    1.96998  0.00%     -    4s
+
+Explored 1 nodes (21203 simplex iterations) in 4.24 seconds (7.60 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.96998 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.969978942278e+00, best bound 1.969978942278e+00, gap 0.0000%
+Presolve removed 264093 rows and 132047 columns
+Presolve time: 0.50s
+Presolved: 52320 rows, 26162 columns, 150102 nonzeros
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   22136    2.6001353e+00   2.487046e+03   0.000000e+00      5s
+Variable types: 26162 continuous, 0 integer (0 binary)
+   27919    1.0076408e+00   0.000000e+00   0.000000e+00      9s
+
+Root relaxation: objective 1.007641e+00, 27919 iterations, 7.95 seconds (14.57 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.0076408    1.00764  0.00%     -    9s
+
+Explored 1 nodes (27919 simplex iterations) in 9.11 seconds (15.52 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.00764 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.007640750253e+00, best bound 1.007640750252e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+Presolve removed 950097 rows and 475049 columns
+Presolve time: 1.87s
+Presolved: 49906 rows, 24955 columns, 145122 nonzeros
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 374625 rows, 187315 columns and 903860 nonzeros
+Model fingerprint: 0xab872b33
+Variable types: 187313 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [4e-02, 1e+00]
+  Objective range  [5e-06, 5e-06]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [2e-03, 1e+01]
+Found heuristic solution: objective 2.2748630
+Variable types: 24955 continuous, 0 integer (0 binary)
+Found heuristic solution: objective 10.8053097
+   30027    2.8809045e+00   0.000000e+00   0.000000e+00      6s
+
+Root relaxation: objective 2.880904e+00, 30027 iterations, 3.43 seconds (7.64 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.8809045    2.88090  0.00%     -    5s
+
+Explored 1 nodes (30027 simplex iterations) in 5.83 seconds (9.97 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.8809 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.880904460141e+00, best bound 2.880904460141e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2566878 nonzeros
+Model fingerprint: 0xaeeddba0
+Variable types: 500002 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [9e-03, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 6e+01]
+  RHS range        [2e-03, 5e+01]
+Found heuristic solution: objective 8.9177059
+Presolve removed 320641 rows and 160321 columns
+Presolve time: 0.54s
+Presolved: 53984 rows, 26994 columns, 159994 nonzeros
+Variable types: 26994 continuous, 0 integer (0 binary)
+   26888    2.5780599e+00   1.526606e+03   0.000000e+00     10s
+
+Root relaxation: objective 3.684838e+00, 27631 iterations, 3.51 seconds (7.66 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.6848385    3.68484  0.00%     -    4s
+
+Explored 1 nodes (27631 simplex iterations) in 4.93 seconds (9.27 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 2: 3.68484 11.5545 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.684838465807e+00, best bound 3.684838465807e+00, gap 0.0000%
+Presolve removed 940375 rows and 470188 columns
+Presolve time: 1.64s
+Presolved: 59628 rows, 29816 columns, 164980 nonzeros
+Variable types: 29816 continuous, 0 integer (0 binary)
+   35423    2.6766761e+00   0.000000e+00   0.000000e+00     11s
+
+Root relaxation: objective 2.676676e+00, 35423 iterations, 8.92 seconds (18.64 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.6766761    2.67668  0.00%     -   11s
+
+Explored 1 nodes (35423 simplex iterations) in 11.45 seconds (21.21 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.67668 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.676676139633e+00, best bound 2.676676139633e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 693495 rows, 346750 columns and 1716552 nonzeros
+Model fingerprint: 0xfeff0aef
+Variable types: 346748 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [7e-03, 1e+00]
+  Objective range  [3e-06, 3e-06]
+  Bounds range     [1e+00, 7e+01]
+  RHS range        [4e-03, 7e+01]
+Found heuristic solution: objective 10.2069248
+
+Root relaxation: objective 3.364976e+00, 25084 iterations, 2.39 seconds (4.99 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.3649763    3.36498  0.00%     -    4s
+
+Explored 1 nodes (25084 simplex iterations) in 4.73 seconds (7.61 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.36498 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.364976292494e+00, best bound 3.364976292492e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2861944 nonzeros
+Model fingerprint: 0xc8dff7f2
+Variable types: 500002 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e-03, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 5e+02]
+  RHS range        [1e-02, 5e+02]
+Found heuristic solution: objective 10.8053143
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   16157    2.9859563e+00   5.821452e+03   0.000000e+00      5s
+   30064    2.0735045e+00   2.745938e+02   0.000000e+00     10s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   13292    2.4369911e+00   7.725272e+03   0.000000e+00      5s
+   32873    2.0826520e+00   0.000000e+00   0.000000e+00     10s
+
+Root relaxation: objective 2.082652e+00, 32873 iterations, 6.82 seconds (12.58 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0826520    2.08265  0.00%     -   10s
+
+Explored 1 nodes (32873 simplex iterations) in 10.21 seconds (16.08 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.08265 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.082651988425e+00, best bound 2.082651988425e+00, gap 0.0000%
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (linux64 - "Rocky Linux 8.8 (Green Obsidian)")
+
+CPU model: AMD EPYC 7763 64-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 128 physical cores, 128 logical processors, using up to 1 threads
+
+Optimize a model with 1000003 rows, 500004 columns and 2364496 nonzeros
+Model fingerprint: 0xaf603a98
+Variable types: 500002 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [2e-02, 1e+00]
+  Objective range  [2e-06, 2e-06]
+  Bounds range     [1e+00, 3e+01]
+  RHS range        [4e-03, 3e+01]
+Found heuristic solution: objective 6.5425193
+Presolve removed 623113 rows and 311557 columns
+Presolve time: 1.69s
+Presolved: 70382 rows, 35193 columns, 204380 nonzeros
+Variable types: 35193 continuous, 0 integer (0 binary)
+Presolve removed 950097 rows and 475049 columns
+Presolve time: 1.83s
+Presolved: 49906 rows, 24955 columns, 145122 nonzeros
+Variable types: 24955 continuous, 0 integer (0 binary)
+   29606    3.4333701e+00   0.000000e+00   0.000000e+00      7s
+
+Root relaxation: objective 3.433370e+00, 29606 iterations, 5.58 seconds (11.23 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.4333701    3.43337  0.00%     -    6s
+Found heuristic solution: objective 10.8053097
+
+Explored 1 nodes (29606 simplex iterations) in 6.71 seconds (12.42 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.43337 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.433370130623e+00, best bound 3.433370130622e+00, gap 0.0000%
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    8259    5.9712179e-01   1.872801e+04   0.000000e+00      5s
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+   28930    2.8800103e+00   3.124789e+01   0.000000e+00      5s
+   30027    2.8809045e+00   0.000000e+00   0.000000e+00      5s
+
+Root relaxation: objective 2.880904e+00, 30027 iterations, 3.30 seconds (7.64 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.8809045    2.88090  0.00%     -    5s
+
+Explored 1 nodes (30027 simplex iterations) in 5.32 seconds (9.97 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.8809 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.880904460141e+00, best bound 2.880904460141e+00, gap 0.0000%
+Presolve removed 936043 rows and 468022 columns
+Presolve time: 2.39s
+Presolved: 63960 rows, 31982 columns, 185178 nonzeros
+Variable types: 31982 continuous, 0 integer (0 binary)
+   26509    3.0943751e+00   0.000000e+00   0.000000e+00      8s
+
+Root relaxation: objective 3.094375e+00, 26509 iterations, 7.06 seconds (13.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.0943751    3.09438  0.00%     -    7s
+
+Explored 1 nodes (26509 simplex iterations) in 7.86 seconds (13.81 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.09438 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.094375087127e+00, best bound 3.094375087127e+00, gap 0.0000%
+
+Root relaxation: objective 3.364976e+00, 25084 iterations, 2.35 seconds (4.99 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       3.3649763    3.36498  0.00%     -    4s
+
+Explored 1 nodes (25084 simplex iterations) in 4.63 seconds (7.61 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 3.36498 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.364976292494e+00, best bound 3.364976292492e+00, gap 0.0000%
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    8465    1.1210379e+00   1.724184e+04   0.000000e+00      5s
+   27919    1.0076408e+00   0.000000e+00   0.000000e+00      9s
+
+Root relaxation: objective 1.007641e+00, 27919 iterations, 7.81 seconds (14.57 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       1.0076408    1.00764  0.00%     -    8s
+
+Explored 1 nodes (27919 simplex iterations) in 8.65 seconds (15.52 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 1.00764 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.007640750253e+00, best bound 1.007640750252e+00, gap 0.0000%
+
+Root simplex log...
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+    6178    9.4347710e-01   2.630425e+04   0.000000e+00      5s
+   29002    2.6204631e+00   7.973326e+02   0.000000e+00     10s
+   35423    2.6766761e+00   0.000000e+00   0.000000e+00     11s
+
+Root relaxation: objective 2.676676e+00, 35423 iterations, 8.69 seconds (18.64 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.6766761    2.67668  0.00%     -   10s
+
+Explored 1 nodes (35423 simplex iterations) in 10.79 seconds (21.21 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.67668 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.676676139633e+00, best bound 2.676676139633e+00, gap 0.0000%
+   32873    2.0826520e+00   0.000000e+00   0.000000e+00      9s
+
+Root relaxation: objective 2.082652e+00, 32873 iterations, 6.75 seconds (12.58 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0       2.0826520    2.08265  0.00%     -    9s
+
+Explored 1 nodes (32873 simplex iterations) in 9.56 seconds (16.08 work units)
+Thread count was 1 (of 128 available processors)
+
+Solution count 1: 2.08265 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.082651988425e+00, best bound 2.082651988425e+00, gap 0.0000%

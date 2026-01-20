@@ -1,0 +1,2 @@
+Escherichia_coli	79920.0
+Myxococcus_xanthus	79920.0
